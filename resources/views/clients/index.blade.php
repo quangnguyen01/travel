@@ -98,36 +98,22 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Chi tiết</h6>
-                <h1 class="mb-5">Các địa điểm nổi tiếng</h1>
+                <h1 class="mb-5">Danh mục</h1>
             </div>
             <div class="row g-3">
-                <div class="col-lg-7 col-md-6">
-                    <div class="row g-3">
-                        @for($i = 0; $i < count($type); $i++)
-                        <div class="@if($i == 0)col-lg-12 @else col-lg-6 @endif col-md-12 wow zoomIn" data-wow-delay="0.1s">
-                            <a class="position-relative d-block overflow-hidden" href="/articles?type={{$type[$i]->id}}">
-                                <img class="img-fluid"
-                                     src="{{$type[$i]->image}}"
-                                     alt="">
-                                <div
-                                    class="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
-                                    {{$type[$i]->name}}
-                                </div>
-                            </a>
-                        </div>
-
-                        @endfor
-                    </div>
-                </div>
-                <div class="col-lg-5 col-md-6 wow zoomIn" data-wow-delay="0.7s" style="min-height: 350px;">
-                    <a class="position-relative d-block h-100 overflow-hidden" href="/articles?type={{$lastType->id}}">
-                        <img class="img-fluid position-absolute w-100 h-100"
-                             src="{{$lastType->image}}" alt=""
-                             style="object-fit: cover;">
-                        <div class="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">{{$lastType->name}}
+                @foreach($type as $item)
+                <div class="col-lg-6 col-md-6 zoomIn wow" data-wow-delay="0.1s">
+                    <a class="position-relative d-block overflow-hidden" href="/articles?type={{$item->id}}">
+                        <img class="img-fluid"
+                                src="{{$item->image}}"
+                                alt="" style="height: 400px;width: 100%;object-fit: cover">
+                        <div
+                            class="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
+                            {{$item->name}}
                         </div>
                     </a>
                 </div>
+                @endforeach
             </div>
         </div>
     </div>
@@ -176,37 +162,41 @@
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="text-center">
-                <h6 class="section-title bg-white text-center text-primary px-3">Đánh giá</h6>
-                <h1 class="mb-5">Phản hồi của khách du lịch</h1>
+                <h6 class="section-title bg-white text-center text-primary px-3">Testimonial</h6>
+                <h1 class="mb-5">Our Clients Say!!!</h1>
             </div>
             <div class="owl-carousel testimonial-carousel position-relative">
                 <div class="testimonial-item bg-white text-center border p-4">
                     <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="/assets/img/testimonial-1.jpg"
                          style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Jane</h5>
-                    <p>USA</p>
-                    <p class="mb-0">Hai Phong is a great place to travel with very friendly people and beautiful scenery</p>
+                    <h5 class="mb-0">John Doe</h5>
+                    <p>New York, USA</p>
+                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos.
+                        Clita erat ipsum et lorem et sit.</p>
                 </div>
                 <div class="testimonial-item bg-white text-center border p-4">
                     <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="/assets/img/testimonial-2.jpg"
                          style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Alex</h5>
-                    <p>France</p>
-                    <p class="mt-2 mb-0">Hai Phong is a great place to travel with very friendly people and beautiful scenery</p>
+                    <h5 class="mb-0">John Doe</h5>
+                    <p>New York, USA</p>
+                    <p class="mt-2 mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et
+                        eos. Clita erat ipsum et lorem et sit.</p>
                 </div>
                 <div class="testimonial-item bg-white text-center border p-4">
                     <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="/assets/img/testimonial-3.jpg"
                          style="width: 80px; height: 80px;">
                     <h5 class="mb-0">John Doe</h5>
-                    <p>England</p>
-                    <p class="mt-2 mb-0">Hai Phong is a great place to travel with very friendly people and beautiful scenery</p>
+                    <p>New York, USA</p>
+                    <p class="mt-2 mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et
+                        eos. Clita erat ipsum et lorem et sit.</p>
                 </div>
                 <div class="testimonial-item bg-white text-center border p-4">
                     <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="/assets/img/testimonial-4.jpg"
                          style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Rachel</h5>
-                    <p>Germany</p>
-                    <p class="mt-2 mb-0">Hai Phong is a great place to travel with very friendly people and beautiful scenery.</p>
+                    <h5 class="mb-0">John Doe</h5>
+                    <p>New York, USA</p>
+                    <p class="mt-2 mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et
+                        eos. Clita erat ipsum et lorem et sit.</p>
                 </div>
             </div>
         </div>
