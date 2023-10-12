@@ -19,6 +19,7 @@ return new class extends Migration
             $table->text('images');
             $table->string('author');
             $table->integer('view')->nullable();
+            $table->boolean('is_feature')->default(0);
             $table->timestamps();
             $table->softDeletes();
         });

@@ -190,7 +190,8 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'author' => 'Công ty du lịch Elite Tour',
                 'images' => 'https://elitetour.com.vn/files/images/Blogs/foodtourhaiphong.jpg',
                 'type_id' => 4,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 0
             ],
             [
                 'id' => 2,
@@ -340,7 +341,8 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'author' => 'Minh Hải - Mai Anh',
                 'images' => 'https://static-images.vnncdn.net/files/publish/2022/6/8/quan-oc-hp-318.jpg',
                 'type_id' => 4,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 0
             ],
             [
                 'id' => 3,
@@ -535,9 +537,10 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
 <p>B&aacute;nh đa cua Hải Ph&ograve;ng&nbsp;l&agrave; m&oacute;n ăn đặc sản để lại cho du kh&aacute;ch nhiều dư vị khi thưởng thức. Tại nhiều th&agrave;nh phố lớn hiện nay, m&oacute;n b&aacute;nh đa cua cũng được b&agrave;y b&aacute;n kh&aacute; phổ biến, tuy nhi&ecirc;n, chỉ khi ăn tại Hải Ph&ograve;ng, bạn mới cảm nhận được vị ngon đ&uacute;ng điệu, h&agrave;i h&ograve;a giữa nhiều nguy&ecirc;n liệu kh&aacute;c nhau. Du lịch Hải Ph&ograve;ng sẽ thật đ&aacute;ng tiếc nếu bạn bỏ lỡ m&oacute;n b&aacute;nh đa cua n&agrave;y!</p>
 ',
                 'author' => 'Vin Pearl',
-                'images' => 'https://statics.vinpearl.com/banh-da-cua-hai-phong-03_1630653446.jpg',
+                'images' => 'https://glexhomes.vn/Upload/9312efd3a2171d2b81c95131ccea1714.jpg',
                 'type_id' => 4,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 1
             ],
             [
                 'id' => 4,
@@ -662,7 +665,8 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'author' => 'Vin Pearl',
                 'images' => 'https://statics.vinpearl.com/banh-da-cua-hai-phong-03_1630653446.jpg',
                 'type_id' => 2,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 0
             ],
             [
                 'id' => 5,
@@ -832,7 +836,8 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'author' => 'Giang Nguyen',
                 'images' => 'https://reviewvilla.vn/wp-content/uploads/2022/06/Bien-do-son-1.jpg',
                 'type_id' => 2,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 0
             ],
             [
                 'id' => 6,
@@ -934,7 +939,8 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'author' => 'Vạn An Travel',
                 'images' => 'https://vanantravel.vn/uploads/cam-nang/kinh-nghiem-du-lich-do-so-tu-tuc-3.jpg',
                 'type_id' => 2,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 1
             ],
             [
                 'id' => 7,
@@ -1026,7 +1032,8 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'author' => 'MIA Go',
                 'images' => 'https://media.mia.vn/uploads/blog-du-lich/review-dao-cat-ba-tat-tan-tat-tu-a-z-sieu-chi-tiet-day-6-1648530030.jpg',
                 'type_id' => 1,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 0
             ],
             [
                 'id' => 8,
@@ -1197,7 +1204,8 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'author' => 'PYS Travel',
                 'images' => 'https://booking.pystravel.vn/uploads/posts/avatar/1685762583.jpg',
                 'type_id' => 1,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 0
             ],
             [
                 'id' => 9,
@@ -1402,7 +1410,8 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'author' => 'Flamingo Cát Bà',
                 'images' => 'https://booking.pystravel.vn/uploads/posts/avatar/1685762583.jpg',
                 'type_id' => 1,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 0
             ],
             [
                 'id' => 10,
@@ -1511,7 +1520,8 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'author' => 'Vin Pearl',
                 'images' => 'https://statics.vinpearl.com/tuyet-tinh-coc-hai-phong-1_1624259833.jpg',
                 'type_id' => 3,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 0
             ],
             [
                 'id' => 11,
@@ -1615,7 +1625,8 @@ Tiện tr&ecirc;n h&agrave;nh tr&igrave;nh n&agrave;y du kh&aacute;ch cũng c&oa
                 'author' => 'Lữ Hành Việt Nam',
                 'images' => 'https://dulichkhampha24.com/wp-content/uploads/2023/01/tuyet-tinh-coc-hai-phong.jpg',
                 'type_id' => 3,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 1
             ],
             [
                 'id' => 12,
@@ -1742,7 +1753,8 @@ Tiện tr&ecirc;n h&agrave;nh tr&igrave;nh n&agrave;y du kh&aacute;ch cũng c&oa
                 'author' => 'Ngô Thị Quỳnh Như',
                 'images' => 'https://cdnnews.mogi.vn/news/wp-content/uploads/2022/07/tuyet-tinh-coc-hai-phong.jpg',
                 'type_id' => 3,
-                'created_at' => Carbon::now()
+                'created_at' => Carbon::now(),
+'is_feature' => 0
             ],
         ]);
     }

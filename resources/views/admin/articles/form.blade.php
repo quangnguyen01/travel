@@ -102,7 +102,7 @@
 
                         <label class="col-sm-1 px-1 col-form-label">Danh mục</label>
                         <div class="col-sm-3">
-                            <select class="form-control" name="category_id">
+                            <select class="form-control" name="type_id">
                                 <option selected disabled hidden>Danh mục</option>
                                 @foreach($type as $item)
                                     <option
@@ -112,6 +112,19 @@
                             @error('type_id')
                             <div class="mt-1 mb-1 ml-1 text-danger">{{ $message }}</div>
                             @enderror
+                        </div>
+                    </div>
+                    <div class="position-relative row form-group">
+                        <label class="col-sm-1">Nổi bật</label>
+                        <div class="col-sm-4">
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="is_feature" id="inlineRadio1" value="1" {{$data && $data->is_feature == 1 ? 'checked' : ''}}>
+                                <label class="form-check-label" for="inlineRadio1" >Yes</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="radio" name="is_feature" id="inlineRadio2" value="0" {{$data && $data->is_feature == 0 ? 'checked' : ''}}>
+                                <label class="form-check-label" for="inlineRadio2">No</label>
+                            </div>
                         </div>
                     </div>
                     <div class="position-relative row form-group">
@@ -147,8 +160,7 @@
                             </div>
                             <div class="uploaded_file_view my-2" id="uploaded_view">
                             </div>
-                            <img src="{{$data ? $data->images : ''}}"
-                                 {{$data && $data->images ? '' : 'hidden'}} id="image-preview" alt=""/>
+                            <img src="{{$data ? $data->images : ''}}" {{$data && $data->images ? '' : 'hidden'}} id="image-preview" alt="" style="width: 100px; height: 100px"/>
                             @error('images')
                             <div class="alert alert-danger mt-1 mb-1">{{ $message }}</div>
                             @enderror

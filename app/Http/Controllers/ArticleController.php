@@ -19,7 +19,7 @@ class ArticleController extends Controller
     {
         $article = new Article();
         $article->fill($request->validated());
-        $article->is_featured = $request->is_featured;
+        $article->is_feature = $request->is_feature;
         $article->save();
         return redirect()->route('listArticle')
             ->with('success', 'Thêm mới thành công.');
@@ -64,6 +64,7 @@ class ArticleController extends Controller
         $article->images = $request->images;
         $article->author = $request->author;
         $article->type_id = $request->type_id;
+        $article->is_feature = $request->is_feature;
         $article->update();
         return redirect()->route('listArticle')->with('success', 'Update thành công.');
     }

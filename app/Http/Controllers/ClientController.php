@@ -12,7 +12,7 @@ class ClientController extends Controller
         $types = Type::query()->limit(3)->get();
         $last_type = Type::latest('id')->first();
         $query = Article::query();
-        $articles = $query->orderBy('created_at', 'DESC')->limit(3)->get();
+        $articles = $query->where('is_feature', 1)->limit(3)->get();
         return view('clients.index', ['type' => $types, 'articles' => $articles, 'lastType' => $last_type]);
     }
 
@@ -20,6 +20,7 @@ class ClientController extends Controller
         $query = Article::query();
         $type = $request->get('type');
         $search = $request->get('search');
+        $feature = Article::query()->where('is_feature', 1)->limit(3)->get();
 
         if ($search || strlen($search) > 0) {
             $query = $query->where('title', 'like', '%' . $search . '%')
@@ -32,7 +33,7 @@ class ClientController extends Controller
         }
 
         $articles = $query->orderBy('created_at', 'DESC')->paginate(9);
-        return view('clients.articles', ['article' => $articles]);
+        return view('clients.articles', ['article' => $articles, 'articles' => $feature]);
     }
     public function detail($id) {
         $article = Article::find($id);
