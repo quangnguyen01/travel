@@ -43,8 +43,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0">
-                <a href="{{route('home')}}" class="nav-item nav-link active">Trang chủ</a>
-                <a href="{{route('list')}}" class="nav-item nav-link">Tin tức</a>
+                <a href="{{route('home')}}" class="nav-item nav-link {{url()->current() === route('home') ? 'active' : ''}}">Trang chủ</a>
+                <a href="{{route('list')}}" class="nav-item nav-link {{url()->current() === route('list') ? 'active' : ''}}">Tin tức</a>
+                <a href="{{route('about')}}" class="nav-item nav-link {{url()->current() === route('about') ? 'active' : ''}}">Chúng tôi</a>
             </div>
     </nav>
 

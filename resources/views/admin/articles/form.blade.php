@@ -122,7 +122,7 @@
                                 <label class="form-check-label" for="inlineRadio1" >Yes</label>
                             </div>
                             <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="radio" name="is_feature" id="inlineRadio2" value="0" {{$data && $data->is_feature == 0 ? 'checked' : ''}}>
+                                <input class="form-check-input" type="radio" name="is_feature" id="inlineRadio2" value="0" {{$data && $data->is_feature == 0 ? 'checked' : ''}} {{!$data ? 'checked' : ''}}>
                                 <label class="form-check-label" for="inlineRadio2">No</label>
                             </div>
                         </div>

@@ -43,5 +43,8 @@ Route::prefix('admin')->middleware(['auth', Authenticate::class])->group(functio
         Route::put('edit/{id}', [ArticleController::class, 'save'])->name('saveArticle');
         Route::get('delete/{id}', [ArticleController::class, 'delete'])->name('deleteArticle');
     });
-
 });
+
+Route::get('/about', function () {
+    return view('clients/about');
+})->name('about');
