@@ -49,14 +49,6 @@ Route::get('/about', function () {
     return view('clients/about');
 })->name('about');
 
-Route::get('/cuisine', function () {
-    return view('clients/cuisine');
-})->name('cuisine');
-
-Route::get('/culture', function () {
-    return view('clients/culture');
-})->name('culture');
-
-Route::get('/travel', function () {
-    return view('clients/travel');
-})->name('travel');
+Route::get('/cuisine', [ClientController::class, 'cuisine'])->name('cuisine');
+Route::get('/culture', [ClientController::class, 'culture'])->name('culture');
+Route::get('/travel', [ClientController::class, 'travel'])->name('travel');

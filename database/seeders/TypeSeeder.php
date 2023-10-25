@@ -39,6 +39,12 @@ class TypeSeeder extends Seeder
                 'image' => 'https://vcdn-dulich.vnecdn.net/2022/05/07/F1-4920-1651942244.jpg',
                 'created_at' => Carbon::now()
             ],
+            [
+                'id' => 5,
+                'name' => 'Văn hóa',
+                'image' => 'https://statics.vinpearl.com/di-tich-lich-su-hai-phong-1_1624605224.jpg',
+                'created_at' => Carbon::now()
+            ],
         ]);
     }
 }

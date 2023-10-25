@@ -663,7 +663,7 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
 </ul>
 ',
                 'author' => 'Vin Pearl',
-                'images' => 'https://statics.vinpearl.com/banh-da-cua-hai-phong-03_1630653446.jpg',
+                'images' => 'https://media.mia.vn/uploads/blog-du-lich/kham-pha-bai-bien-do-son-diem-du-lich-hot-nhat-vinh-bac-bo-trong-mua-he-nay-2-1646796709.jpg',
                 'type_id' => 2,
                 'created_at' => Carbon::now(),
 'is_feature' => 0
@@ -1753,6 +1753,195 @@ Tiện tr&ecirc;n h&agrave;nh tr&igrave;nh n&agrave;y du kh&aacute;ch cũng c&oa
                 'author' => 'Ngô Thị Quỳnh Như',
                 'images' => 'https://cdnnews.mogi.vn/news/wp-content/uploads/2022/07/tuyet-tinh-coc-hai-phong.jpg',
                 'type_id' => 3,
+                'created_at' => Carbon::now(),
+'is_feature' => 0
+            ],
+			[
+                'id' => 13,
+                'title' => 'Khu di tích Bạch Đằng Giang – nơi hòa quyện linh khí thiên-địa-nhân',
+                'content' => '<h1>Khu di t&iacute;ch Bạch Đằng Giang, c&aacute;ch trung t&acirc;m th&agrave;nh phố Hải Ph&ograve;ng chừng 18km về ph&iacute;a Đ&ocirc;ng Bắc, vừa được Bộ Văn h&oacute;a, Thể thao v&agrave; Du lịch xếp hạng di t&iacute;ch lịch sử cấp quốc gia.</h1>
+
+				<p><img alt="" src="https://cdnimg.vietnamplus.vn/t620/uploaded/xpcwvovt/2021_01_01/ttxvn_bach_dang_giang.jpg" style="height:411px; width:620px" /></p>
+				
+				<p>Quang cảnh lễ cắt băng khai mạc triển l&atilde;m ảnh, tư liệu &lsquo;Bạch Đằng Giang &ndash; lịch sử v&agrave; dấu t&iacute;ch.&rsquo; (Ảnh: An Đăng/TTXVN).</p>
+				
+				<p>V&ugrave;ng đất Tr&agrave;ng K&ecirc;nh-Bạch Đằng (huyện Thủy Nguy&ecirc;n), c&aacute;ch trung t&acirc;m th&agrave;nh phố Hải Ph&ograve;ng chừng 18km về ph&iacute;a Đ&ocirc;ng Bắc, l&agrave; địa danh nổi tiếng với 3 trận thủy chiến chống qu&acirc;n x&acirc;m lược trong lịch sử Việt Nam.</p>
+				
+				<p>Những trận chiến đ&oacute; gắn liền với t&ecirc;n tuổi c&aacute;c bậc h&agrave;o kiệt: Vua L&ecirc; Đại H&agrave;nh, Quốc C&ocirc;ng Tiết chế Hưng Đạo Vương Trần Quốc Tuấn v&agrave; Đức Vương Ng&ocirc; Quyền.</p>
+				
+				<p>Để tưởng nhớ c&aacute;c vị anh h&ugrave;ng d&acirc;n tộc lập n&ecirc;n những chiến thắng vang dội tr&ecirc;n d&ograve;ng s&ocirc;ng Bạch Đằng lịch sử, người d&acirc;n đ&atilde; x&acirc;y dựng khu di t&iacute;ch Bạch Đằng Giang &ndash; một quần thể kiến tr&uacute;c quy m&ocirc; bề thế, khang trang.</p>
+				
+				<p>Khu di t&iacute;ch Bạch Đằng Giang vừa được Bộ Văn h&oacute;a, Thể thao v&agrave; Du lịch xếp hạng di t&iacute;ch lịch sử cấp quốc gia.</p>
+				
+				<p>Bạch Đằng Giang, sự h&ograve;a quyện linh kh&iacute; thi&ecirc;n-địa-nh&acirc;n. Từ s&ocirc;ng Bạch Đằng nh&igrave;n v&agrave;o, Tr&agrave;ng K&ecirc;nh như một Hạ Long tr&ecirc;n cạn với nhiều n&uacute;i non h&ugrave;ng vĩ.</p>
+				
+				<p>Tr&agrave;ng K&ecirc;nh cũng l&agrave; v&ugrave;ng đất lưu giữ di chỉ của người Việt cổ, nơi giao thoa văn h&oacute;a của người miền n&uacute;i ở c&aacute;nh cung Đ&ocirc;ng Triều với người miền biển của văn h&oacute;a Hạ Long của c&aacute;c bộ tộc &Acirc;u Việt v&agrave; Lạc Việt.</p>
+				
+				<p>Từ trước c&ocirc;ng nguy&ecirc;n đến thời Bắc thuộc, n&uacute;i Tr&agrave;ng K&ecirc;nh &ndash; s&ocirc;ng Bạch Đằng &aacute;n ngữ con đường x&acirc;m lăng duy nhất về phương Nam của c&aacute;c thế lực Phương Bắc&hellip;</p>
+				
+				<p>Nơi đ&acirc;y, từ thế kỷ X đến thế kỷ XIII diễn ra 3 trận quyết chiến chiến lược, cả 3 lần đều d&ugrave;ng trận địa cọc, cả 3 lần đều chỉ xảy ra trong 1 ng&agrave;y, 1 con nước s&aacute;ng l&ecirc;n chiều xuống v&agrave; ti&ecirc;u diệt gọn qu&acirc;n th&ugrave;, bắt sống giặc, ch&eacute;m chết chủ tướng, l&agrave;m qu&acirc;n th&ugrave; Nam H&aacute;n, Đại Tống, Nguy&ecirc;n M&ocirc;ng đều bạt v&iacute;a kinh hồn. Kh&ocirc;ng một kh&uacute;c s&ocirc;ng n&agrave;o nơi đ&acirc;y kh&ocirc;ng nhuốm m&aacute;u qu&acirc;n th&ugrave;.</p>
+				
+				<p><strong>B&iacute; thư Th&agrave;nh ủy Hải Ph&ograve;ng L&ecirc; Văn Th&agrave;nh</strong>&nbsp;cho rằng: &ldquo;<em>Trong lịch sử dựng nước v&agrave; giữ nước của d&acirc;n tộc ta, v&ugrave;ng đất Hải Ph&ograve;ng v&agrave; d&ograve;ng s&ocirc;ng Bạch Đằng lu&ocirc;n giữ vai tr&ograve; trọng yếu trong c&aacute;c cuộc kh&aacute;ng chiến chống ngoại x&acirc;m bảo vệ Tổ quốc. Từ xa xưa, s&ocirc;ng Bạch Đằng với cửa biển Nam Triệu đ&atilde; l&agrave; tuyến đường thủy quan trọng nhất dẫn v&agrave;o kinh đ&ocirc; nước ta</em>&ldquo;.</p>
+				
+				<p>&ldquo;<em>Tr&ecirc;n d&ograve;ng s&ocirc;ng Bạch Đằng v&agrave;o c&aacute;c năm 938, 981, 1288, dưới sự l&atilde;nh đạo của ba vị anh h&ugrave;ng d&acirc;n tộc l&agrave; Ng&ocirc; Quyền, L&ecirc; Ho&agrave;n, Trần Hưng Đạo, với chiến thuật trận địa cọc độc đ&aacute;o, nh&acirc;n d&acirc;n ta đ&atilde; l&agrave;m n&ecirc;n những chiến thắng vĩ đại, đập tan cuộc x&acirc;m lược của c&aacute;c triều đại phong kiến phương Bắc. Những dấu t&iacute;ch phong ph&uacute; về 3 trận quyết chiến chiến lược đ&oacute; c&ograve;n lưu giữ tr&ecirc;n khắp địa b&agrave;n th&agrave;nh phố Hải Ph&ograve;ng, đặc biệt l&agrave; ở khu vực huyện Thủy Nguy&ecirc;n, th&agrave;nh phố Hải Ph&ograve;ng</em>&ldquo;, &ocirc;ng L&ecirc; Văn Th&agrave;nh nhấn mạnh.</p>
+				
+				<p><img alt="" src="https://cdnimg.vietnamplus.vn/t620/uploaded/xpcwvovt/2021_01_01/bach_dang_giang_2.jpg" style="height:331px; width:620px" /></p>
+				
+				<p>To&agrave;n cảnh Khu Di t&iacute;ch Bạch Đằng Giang. (Nguồn: bachdanggiang.vn).</p>
+				
+				<p>Để tưởng nhớ c&aacute;c vị anh h&ugrave;ng d&acirc;n tộc lập n&ecirc;n những chiến thắng vang dội tr&ecirc;n d&ograve;ng s&ocirc;ng lịch sử, người d&acirc;n đ&atilde; x&acirc;y dựng khu di t&iacute;ch Bạch Đằng Giang &ndash; một quần thể kiến tr&uacute;c quy m&ocirc; bề thế, khang trang.</p>
+				
+				<p>Từ năm 2008 đến nay, c&aacute;c c&ocirc;ng tr&igrave;nh trong khu di t&iacute;ch đ&atilde; lần lượt được x&acirc;y dựng, tạo n&ecirc;n một quần thể di t&iacute;ch uy nghi, lung linh soi b&oacute;ng xuống Bạch Đằng Giang lịch sử. Khu di t&iacute;ch lưng tựa n&uacute;i, ch&acirc;n đạp s&ocirc;ng, mắt d&otilde;i biển Đ&ocirc;ng, tạo th&agrave;nh điểm tựa t&acirc;m linh cho cả v&ugrave;ng Đ&ocirc;ng Bắc Tổ quốc.</p>
+				
+				<p>Điểm nhấn trong quần thể di t&iacute;ch kh&ocirc;ng thể kh&ocirc;ng nhắc tới ng&ocirc;i đền mang t&ecirc;n Bạch Đằng Giang thờ Đức Ng&ocirc; Quyền Vương, người khai sinh trận địa cọc Bạch Đằng, đ&aacute;nh thắng qu&acirc;n Nam H&aacute;n năm 938, chấm dứt 1117 năm Bắc thuộc, mở ra nền văn minh Đại Việt.</p>
+				
+				<p>C&aacute;ch đền Bạch Đằng Giang chừng 500m l&agrave; đền Tr&agrave;ng K&ecirc;nh Vọng Đế thờ Đức Vua L&ecirc; Đại H&agrave;nh, năm 981 ng&agrave;i đ&atilde; t&aacute;i tạo lại địa cọc của Ng&ocirc; Quyền, c&oacute; c&ocirc;ng đ&aacute;nh Tống b&igrave;nh Chi&ecirc;m, đưa Đại Cồ Việt ngang h&agrave;ng với Đại H&aacute;n.</p>
+				
+				<p>Tiếp đến l&agrave; Linh từ Tr&agrave;ng K&ecirc;nh thờ Quốc C&ocirc;ng Tiết chế Hưng Đạo Đại Vương Trần Quốc Tuấn &ndash; ng&agrave;i c&oacute; c&ocirc;ng 3 lần đ&aacute;nh bại Nguy&ecirc;n M&ocirc;ng, đỉnh điểm l&agrave; chiến thắng Bạch Đằng 1288, đập tan d&atilde; t&acirc;m x&acirc;m lược nước ta của Đế chế Nguy&ecirc;n M&ocirc;ng, mở ra nền văn minh Đ&ocirc;ng A rực rỡ.</p>
+				
+				<p>Đền thờ Chủ tịch Hồ Ch&iacute; Minh l&agrave; một trong những địa điểm đặc biệt của khu di t&iacute;ch. Chủ tịch Hồ Ch&iacute; Minh &ndash; vị l&atilde;nh tụ vĩ đại của d&acirc;n tộc Việt Nam, Người lu&ocirc;n trong tr&aacute;i tim mọi người d&acirc;n đất Việt. Nhiều đền, ch&ugrave;a đ&igrave;nh, miếu trong cả nước đ&atilde; lập b&agrave;n thờ Chủ tịch Hồ Ch&iacute; Minh. Khu di t&iacute;ch Bạch Đằng Giang l&agrave; nơi đầu ti&ecirc;n tại Hải Ph&ograve;ng lập đền thờ Chủ tịch Hồ Ch&iacute; Minh để nh&acirc;n d&acirc;n v&agrave; thu kh&aacute;ch thập phương b&agrave;y tỏ l&ograve;ng th&agrave;nh k&iacute;nh, nhớ thương Người.</p>
+				
+				<p>Hướng ra s&ocirc;ng Bạch Đằng l&agrave; 3 pho tượng của c&aacute;c bậc danh vương, danh tướng Ng&ocirc; Quyền, L&ecirc; Đại H&agrave;nh v&agrave; Trần Hưng Đạo, đứng uy nghi canh giữ nơi cửa s&ocirc;ng lịch sử. Vị tr&iacute; n&agrave;y gọi l&agrave; Quảng trường Chiến thắng. C&ocirc;ng tr&igrave;nh được ho&agrave;n th&agrave;nh v&agrave;o th&aacute;ng Chạp năm B&iacute;nh Th&acirc;n 2016, đ&oacute;n xu&acirc;n mới Đinh Dậu 2017.</p>
+				
+				<p>Theo Ban Quản l&yacute; khu di t&iacute;ch Bạch Đằng Giang, c&aacute;c pho tượng được đ&uacute;c bằng đồng nguy&ecirc;n khối, mỗi pho tượng c&oacute; chiều cao 8m, trọng lượng 40 tấn.</p>
+				
+				<p>Ba vị anh h&ugrave;ng được tạc với thần th&aacute;i sống động, mỗi vị mang một sắc th&aacute;i ri&ecirc;ng. Đức vương Ng&ocirc; Quyền đứng giữa, ch&acirc;n đạp s&oacute;ng, tay chỉ thẳng d&ograve;ng s&ocirc;ng Bạch Đằng, nơi v&ugrave;i x&aacute;c qu&acirc;n th&ugrave;.</p>
+				
+				<p>Đức Ho&agrave;ng đế L&ecirc; Đại H&agrave;nh &aacute;o b&agrave;o tung bay trong gi&oacute;, tay nắm chặt đốc kiếm, mắt rực s&aacute;ng thi&ecirc;u đốt qu&acirc;n th&ugrave;.</p>
+				
+				<p>Hưng Đạo vương Trần Quốc Tuấn khoan thai, tay phải giữ &ldquo;Binh thư yếu lược&rdquo; B&igrave;nh Nguy&ecirc;n, tay tr&aacute;i nắm chắc chu&ocirc;i gươm, d&aacute;ng hi&ecirc;n ngang.</p>
+				
+				<p>Cả 3 vị đứng tr&ecirc;n bệ đ&aacute;, lưng tựa t&ugrave;ng xanh Thi&ecirc;n ni&ecirc;n thịnh, mắt d&otilde;i tr&ugrave;ng khơi trong tư thế uy phong, rực s&aacute;ng giữa m&agrave;u xanh của trời, của non, của nước.</p>
+				
+				<p>Dưới mặt nước l&agrave; b&atilde;i cọc lim bịt sắt gồm 180 cọc được dựng lại dưới l&ograve;ng s&ocirc;ng, tượng trưng cho thế trận năm xưa m&agrave; c&aacute;c tiền nh&acirc;n đ&atilde; cho dựng l&ecirc;n để ti&ecirc;u diệt qu&acirc;n th&ugrave;&hellip;</p>
+				
+				<p><img alt="" src="https://cdnimg.vietnamplus.vn/t620/uploaded/xpcwvovt/2021_01_01/bach_dang_giang.jpg" style="height:320px; width:620px" /></p>
+				
+				<p>Khu di t&iacute;ch Bạch Đằng Giang. (Nguồn: bachdanggiang.vn).</p>
+				
+				<p>Khu di t&iacute;ch Bạch Đằng Giang kh&ocirc;ng chỉ c&oacute; những ng&ocirc;i đền, cảnh đẹp m&agrave; c&ograve;n x&acirc;y dựng những c&ocirc;ng tr&igrave;nh phục vụ hoạt động tham quan, trải nghiệm v&agrave; học tập t&iacute;ch hợp cho du kh&aacute;ch. Đ&oacute; l&agrave; khu vườn tượng m&ocirc; tả việc l&agrave;m cọc chống giặc ngoại x&acirc;m của &ocirc;ng cha ta; khu m&ocirc; phỏng khu rừng gỗ lim v&agrave; vườn tượng chế t&aacute;c cọc Bạch Đằng; khu đặt những bức tượng ch&acirc;n thật như l&agrave;m &ldquo;sống lại&rdquo;&nbsp;<strong>chiến thắng Bạch Đằng Giang</strong>&nbsp;lịch sử&hellip;</p>
+				
+				<p>Những c&ocirc;ng tr&igrave;nh văn h&oacute;a li&ecirc;n quan đến chiến thắng Bạch Đằng Giang như phần n&agrave;o phản &aacute;nh tầm v&oacute;c của 3 trận thủy chiến trong lịch sử. Hằng năm, khu di t&iacute;ch Bạch Đằng Giang đ&atilde; kh&ocirc;ng ngừng mở mang, ho&agrave;n thiện, đ&oacute;n h&agrave;ng triệu du kh&aacute;ch trong v&agrave; ngo&agrave;i nước về thăm quan trong cả 4 m&ugrave;a.</p>
+				
+				<p>Khu du t&iacute;ch Bạch Đằng Giang l&agrave; một trong số &iacute;t địa điểm du lịch thực hiện th&agrave;nh c&ocirc;ng &ldquo;3 kh&ocirc;ng&rdquo; (<strong>kh&ocirc;ng thương mại, kh&ocirc;ng thu ph&iacute;, kh&ocirc;ng r&aacute;c thải</strong>). Nhờ nguy&ecirc;n tắc &ldquo;3 kh&ocirc;ng&rdquo; n&agrave;y, khu di t&iacute;ch đ&atilde; mang đến một kh&ocirc;ng gian văn h&oacute;a, lịch sử y&ecirc;n b&igrave;nh đ&uacute;ng nghĩa.</p>
+				
+				<p>Anh Nguyễn Ngọc Quang đến từ Nh&agrave; B&egrave;, Th&agrave;nh phố Hồ Ch&iacute; Minh chia sẻ đến Bạch Đằng Giang để t&igrave;m về lịch sử. Đến Bạch Đằng Giang để cảm nhận một cảnh quan, kh&ocirc;ng gian mang đậm sắc th&aacute;i văn h&oacute;a d&acirc;n tộc, vừa h&ugrave;ng vĩ của n&uacute;i s&ocirc;ng, vừa linh thi&ecirc;ng v&agrave; thấy như tiếng &ocirc;ng cha từ ng&agrave;n xưa vẫn vang vọng về.</p>
+				
+				<p>Bạch Đằng-Tr&agrave;ng K&ecirc;nh thực sự l&agrave; một địa danh c&oacute; bề d&agrave;y truyền thống h&agrave;o h&ugrave;ng, oanh liệt trong lịch sử trường tồn của d&acirc;n tộc.</p>
+				
+				<p>Khu di t&iacute;ch Bạch Đằng Giang được xếp hạng&nbsp;<strong>Di t&iacute;ch lịch sử cấp quốc gia</strong>&nbsp;l&agrave; minh chứng cho những nỗ lực kh&ocirc;ng ngừng nghỉ của th&agrave;nh phố Hải Ph&ograve;ng trong việc bảo tồn v&agrave; ph&aacute;t huy gi&aacute; trị di t&iacute;ch lịch sử, văn h&oacute;a.</p>
+				
+				<p>Đ&acirc;y c&ograve;n l&agrave; minh chứng của sự cụ thể h&oacute;a Nghị quyết 45 của Bộ Ch&iacute;nh trị về &ldquo;<em>X&acirc;y dựng v&agrave; ph&aacute;t triển th&agrave;nh phố Hải Ph&ograve;ng đến năm 2030, tầm nh&igrave;n đến năm 2045</em>&ldquo;./.</p>
+				',
+                'author' => 'Đoàn Minh Huệ',
+                'images' => 'https://baocantho.com.vn/image/fckeditor/upload/2019/20191108/images/tuong3vi.jpg',
+                'type_id' => 5,
+                'created_at' => Carbon::now(),
+'is_feature' => 0
+            ],
+			[
+                'id' => 14,
+                'title' => 'Núi Voi Hải Phòng - Nơi ẩn chứa câu chuyện ít ai biết',
+                'content' => '<h2>N&uacute;i Voi Hải Ph&ograve;ng là m&ocirc;̣t trong những qu&acirc;̀n th&ecirc;̉ danh lam thắng cảnh sở hữu nhi&ecirc;̀u giá trị văn hóa lịch sử l&acirc;u đời của d&acirc;n t&ocirc;̣c ta. Đ&acirc;y là m&ocirc;̣t trong những đi&ecirc;̉m đ&ecirc;́n tuy&ecirc;̣t vời, h&acirc;́p d&acirc;̃n cho chuy&ecirc;́n đi du lịch Hải Phòng.</h2>
+
+				<p><img style="width:100%" alt="nui voi hai phong" src="https://statics.vinpearl.com/nui-voi-hai-phong-1_1624526398.jpg" /><em>Vẻ đẹp n&ecirc;n thơ của N&uacute;i Voi Hải Ph&ograve;ng</em></p>
+				
+				<p><strong>N&uacute;i Voi Hải Ph&ograve;ng</strong>&nbsp;nằm cách trung t&acirc;m thành ph&ocirc;́ khoảng hơn 20km. Mang trong mình nét đẹp tự nhi&ecirc;n, ghi d&acirc;́u lịch sử hào hùng. Ở nơi đ&acirc;y, những c&acirc;u chuy&ecirc;̣n truy&ecirc;̀n thuy&ecirc;́t bí &acirc;̉n v&acirc;̃n được r&acirc;́t nhi&ecirc;̀u người d&acirc;n truy&ecirc;̀n tai nhau. Đi&ecirc;̀u này đã khi&ecirc;́n cho r&acirc;́t nhi&ecirc;̀u du khách tò mò mong mu&ocirc;́n được tới đ&ecirc;̉ khám phá địa đi&ecirc;̉m du lịch đ&acirc;̀y bí &acirc;̉n này.&nbsp;</p>
+				
+				<h2>1. Sơ lược về khu du lịch N&uacute;i Voi Hải Ph&ograve;ng</h2>
+				
+				<h3>1.1. Giải m&atilde; t&ecirc;n gọi &ldquo;N&uacute;i Voi&rdquo;</h3>
+				
+				<p>Sở dĩ N&uacute;i Voi Hải Ph&ograve;ng được gọi với cái t&ecirc;n như v&acirc;̣y là vì từ r&acirc;́t l&acirc;u, nhìn từ xa&nbsp;<strong>núi gi&ocirc;́ng hình dạng như m&ocirc;̣t chú voi kh&ocirc;̉ng l&ocirc;̀, nằm phủ phục n&ecirc;n đã quy&ecirc;́t định l&acirc;́y lu&ocirc;n t&ecirc;n này đặt cho núi.&nbsp;</strong>N&uacute;i Voi Hải Ph&ograve;ng như m&ocirc;̣t nh&acirc;n chứng lịch sử, gắn li&ecirc;̀n với ni&ecirc;̀m tự hào d&acirc;n t&ocirc;̣c, chứng ki&ecirc;́n những cu&ocirc;̣c chi&ecirc;́n tranh kh&ocirc;́c li&ecirc;̣t thời kỳ kháng chi&ecirc;́n ch&ocirc;́ng x&acirc;m lược của nh&acirc;n d&acirc;n ta.</p>
+				
+				<h3>1.2. N&uacute;i Voi ở đ&acirc;u?&nbsp;</h3>
+				
+				<p><strong>N&uacute;i Voi Hải Ph&ograve;ng nằm giáp ranh giữa hai xã Trường Thành và An Ti&ecirc;́n của huy&ecirc;̣n An Lão. Cách trung t&acirc;m thành ph&ocirc;́ Hải phòng khoảng g&acirc;̀n 20km theo hướng T&acirc;y Nam</strong>. Nơi đ&acirc;y bao g&ocirc;̀m m&ocirc;̣t qu&acirc;̀n th&ecirc;̉ núi đ&acirc;́t nằm n&ocirc;́i nhau. Nhi&ecirc;̀u du khách tới đ&acirc;y băn khoăn kh&ocirc;ng bi&ecirc;́t N&uacute;i Voi Hải Ph&ograve;ng cao bao nhi&ecirc;u m&eacute;t? C&acirc;u trả lời là 143m sừng sững, hi&ecirc;n ngang giữa đ&acirc;́t trời. &nbsp;</p>
+				
+				<p><img style="width:100%" alt="nui voi hai phong" src="https://statics.vinpearl.com/nui-voi-hai-phong-1_1624526465.jpg" /><em>N&uacute;i Voi Hải Ph&ograve;ng có chi&ecirc;̀u cao 143m, hình dáng như m&ocirc;̣t chú voi nằm phủ phục (Ảnh: Sưu t&acirc;̀m)</em></p>
+				
+				<p>Núi Voi An Lão Hải Phòng được bi&ecirc;́t tới là m&ocirc;̣t trong những địa đi&ecirc;̉m du lịch h&acirc;́p d&acirc;̃n dành cho những du khách mong mu&ocirc;́n tìm v&ecirc;̀ c&ocirc;̣i ngu&ocirc;̀n, khám phá lịch sử d&acirc;n t&ocirc;̣c ta và khi được giới thi&ecirc;̣u v&ecirc;̀ Núi Voi, ai cũng mu&ocirc;́n được trải nghi&ecirc;̣m ngay vẻ&nbsp;đẹp non nước, hoang sơ của thi&ecirc;n nhi&ecirc;n nơi đ&acirc;y.</p>
+				
+				<p><em><strong>&gt;&gt;&gt; Xem th&ecirc;m:&nbsp;<a href="https://vinpearl.com/vi/review-tron-bo-bi-kip-du-lich-hai-phong-tu-tuc">Du lịch Hải Ph&ograve;ng tự t&uacute;c - Review trọn bộ b&iacute; k&iacute;p</a>&nbsp;</strong></em></p>
+				
+				<h3>1.3. V&igrave; sao N&uacute;i Voi gắn liền với niềm tự h&agrave;o d&acirc;n tộc?</h3>
+				
+				<p>Theo truyền thuyết N&uacute;i Voi Hải Ph&ograve;ng, trong thời kỳ chi&ecirc;́n tranh hào hùng, các chi&ecirc;́n sĩ b&ocirc;̣ đ&ocirc;̣i của ta đã dựa vào địa hình hi&ecirc;̉m trở của ngọn núi này đ&ecirc;̉ làm nơi trú &acirc;̉n và dùng l&ocirc;́i đánh du kích nhỏ lẻ đ&ecirc;̉ ti&ecirc;u di&ecirc;̣t qu&acirc;n địch.&nbsp;</p>
+				
+				<p>Cũng chính tại nơi đ&acirc;y, có r&acirc;́t nhi&ecirc;̀u chi&ecirc;́n sĩ đã hy sinh th&acirc;̀m lặng đ&ecirc;̉ giành l&acirc;́y n&ecirc;̀n hòa bình cho đ&acirc;́t nước. Thành ph&ocirc;́ Hải phòng đã chứng nh&acirc;̣n N&uacute;i Voi là khu di tích lịch sử cấp quốc gia lưu trữ những dấu ấn đặc biệt m&agrave; &ocirc;ng cha ta từ thời kháng chi&ecirc;́n ch&ocirc;́ng Pháp và Mỹ.</p>
+				
+				<p><img alt="nui voi hai phong" style="width:100%" src="https://statics.vinpearl.com/nui-voi-hai-phong-2_1624526524.jpg" /><em>&nbsp;Núi Voi Hải Phòng với những qu&acirc;̀n th&ecirc;̉ núi đá hùng vĩ nằm n&ocirc;́i nhau (Ảnh: Sưu t&acirc;̀m)</em></p>
+				
+				<p><em>N&uacute;i Voi Hải Ph&ograve;ng</em>&nbsp;ngày nay đã thu hút được r&acirc;́t nhi&ecirc;̀u nhà khảo c&ocirc;̉ học, nhà nghi&ecirc;n cứu trong và ngoài nước tới đ&acirc;y tìm hi&ecirc;̉u. B&ecirc;n cạnh đó, đ&acirc;y cũng được coi là m&ocirc;̣t trong những địa chỉ du lịch đẹp được đ&ocirc;ng đảo du khách ghé thăm.</p>
+				',
+                'author' => 'Vin Pearl',
+                'images' => 'https://ik.imagekit.io/tvlk/blog/2023/05/nui-voi-1.jpeg?tr=dpr-2,w-675',
+                'type_id' => 5,
+                'created_at' => Carbon::now(),
+'is_feature' => 0
+            ],
+			[
+                'id' => 15,
+                'title' => 'Lễ hội Hoa Phượng Đỏ Hải Phòng',
+                'content' => '<h2>1Giới thiệu về Lễ hội hoa phượng đỏ Hải Ph&ograve;ng</h2>
+
+				<p>V&agrave;o năm 2012 c&oacute; hơn 9000 c&acirc;y hoa phượng được trồng khắp c&aacute;c con phố của Hải Ph&ograve;ng. Lễ hội hoa phượng đỏ Hải Ph&ograve;ng ra đời dựa tr&ecirc;n việc lấy h&igrave;nh ảnh hoa phượng, con người Hải Ph&ograve;ng l&agrave;m cốt l&otilde;i để biểu diễn th&agrave;nh c&aacute;c chương tr&igrave;nh văn nghệ, thể dục, thể thao v&agrave; c&aacute;c hoạt động quảng b&aacute; du lịch cho th&agrave;nh phố hoa phượng đỏ. Đừng bỏ qua lễ hội đặc sắc n&agrave;y trong&nbsp;<a href="https://mia.vn/cam-nang-du-lich" target="_blank">Cẩm nang du lịch</a>&nbsp;của bạn nh&eacute;.</p>
+				
+				<p><img style="width:100%" alt="Cùng tìm hiểu về Lễ hội hoa phượng đỏ Hải Phòng với MIA.vn 2" src="https://media.mia.vn/uploads/blog-du-lich/cung-tim-hieu-ve-le-hoi-hoa-phuong-do-hai-phong-voi-miavn-01-1648657942.jpg" /></p>
+				
+				<p>Lễ hội hoa phượng đỏ Hải Ph&ograve;ng được diễn v&ocirc; c&ugrave;ng s&ocirc;i động</p>
+				
+				<p>Xem th&ecirc;m:&nbsp;<a href="https://mia.vn/cam-nang-du-lich/dac-sac-le-hoi-den-tran-quoc-bao-tai-hai-phong-4612" target="_blank">Đặc sắc Lễ hội đền Trần Quốc Bảo tại Hải Ph&ograve;ng</a></p>
+				
+				<h2>2Lễ hội hoa phượng đỏ c&oacute; g&igrave; đặc sắc?</h2>
+				
+				<p>Kh&aacute;c với c&aacute;c lễ hội lớn như&nbsp;<a href="https://mia.vn/cam-nang-du-lich/soi-noi-le-hoi-dua-thuyen-hai-phong-tren-dong-song-hon-ngoc-4650" target="_blank">Lễ hội đua thuyền Hải Ph&ograve;ng</a>, Lễ hội b&agrave; L&ecirc; Ch&acirc;n Hải Ph&ograve;ng, Lễ hội rước lợn &ocirc;ng Bồ&nbsp;thường c&oacute; thời gian tổ chức cụ thể. Lễ hội hoa phượng đỏ kh&ocirc;ng c&oacute; thời gian v&agrave; địa điểm tổ chức cố định. C&ugrave;ng điểm qua một v&agrave;i lễ hội đ&atilde; diễn ra với MIA.vn nh&eacute;.&nbsp;</p>
+				
+				<p>2.1 Lễ hội hoa phượng đỏ Hải Ph&ograve;ng lần thứ I</p>
+				
+				<p>Lễ hội hoa phượng đỏ năm 2012 được diễn ra với chủ đề &ldquo;Lung linh sắc đỏ Hải Ph&ograve;ng&rdquo; diễn ra từ ng&agrave;y 9 đến ng&agrave;y 10/06/2012. Lễ hội được tổ chức lần đầu ti&ecirc;n nhằm quảng b&aacute; h&igrave;nh ảnh cho th&agrave;nh phố với trọng điểm l&agrave; &ldquo;Đ&ecirc;m hội Hoa Phượng đỏ&rdquo; v&agrave;o ng&agrave;y m&ugrave;ng 9. Tại lễ hội n&agrave;y đ&atilde; c&oacute; đến h&agrave;ng trăm diễn vi&ecirc;n tham gia. Đ&acirc;y cũng l&agrave; bước ngoặt lớn, đ&aacute;nh dấu việc Lễ hội hoa phượng đỏ Hải Ph&ograve;ng sẽ trở th&agrave;nh sự kiện thường ni&ecirc;n của th&agrave;nh phố n&agrave;y. Một số hoạt động nổi bật trong lễ hội c&oacute; thể kể đến như lễ hội carnaval tr&ecirc;n c&aacute;c tuyến phố, đ&ecirc;m thơ v&agrave; giao lưu giữa c&aacute;c nh&agrave; thơ, triển l&atilde;m tranh, trưng b&agrave;y v&agrave; tr&igrave;nh diễn thư ph&aacute;p về chữ &ldquo;Phượng&rdquo;.&nbsp;&nbsp;</p>
+				
+				<p><img style="width:100%" alt="Cùng tìm hiểu về Lễ hội hoa phượng đỏ Hải Phòng với MIA.vn 3" src="https://media.mia.vn/uploads/blog-du-lich/cung-tim-hieu-ve-le-hoi-hoa-phuong-do-hai-phong-voi-miavn-02-1648657946.jpg" /></p>
+				
+				<p>Lễ hội c&oacute; nhiều tiết mục văn nghệ đặc sắc</p>
+				
+				<p>2.2 Lễ hội hoa phượng đỏ lần thứ II</p>
+				
+				<p>Lễ hội hoa phượng đỏ Hải Ph&ograve;ng lần thứ II được diễn ra từ 20:00 ng&agrave;y 11/05 đến 01:00 ng&agrave;y 12/05 tại khu vực Quảng trường của Nh&agrave; h&aacute;t th&agrave;nh phố v&agrave;o năm 2013.</p>
+				
+				<p>2.3 Lễ hội hoa phượng đỏ lần thứ III</p>
+				
+				<p>Lễ hội được tổ chức từ ng&agrave;y 09/05 đến 11/05/2014 tại Quảng trường Nh&agrave; h&aacute;t th&agrave;nh phố nhằm thể hiện h&igrave;nh ảnh nổi bật của hoa phượng v&agrave; n&ecirc;u bật c&aacute;c gi&aacute; trị đa dạng sinh học của quần đảo C&aacute;t B&agrave;. Trong lễ hội n&agrave;y đ&aacute;ng lẽ sẽ c&oacute; chương tr&igrave;nh bắn ph&aacute;o hoa 10 ph&uacute;t nhưng do lỗi kỹ thuật n&ecirc;n điều n&agrave;y đ&atilde; kh&ocirc;ng thể diễn ra.&nbsp;</p>
+				
+				<p>2.4 Lễ hội hoa phượng đỏ lần thứ IV</p>
+				
+				<p>Lễ hội hoa phượng đỏ Hải Ph&ograve;ng lần thứ IV được diễn ra từ ng&agrave;y 07/05 - 11/05/2015 tại khu vực trung t&acirc;m th&agrave;nh phố. Lễ hội lần n&agrave;y vừa tr&ugrave;ng với dịp kỷ niệm 60 năm ng&agrave;y giải ph&oacute;ng Hải Ph&ograve;ng. Trong lễ khai mạc, ph&aacute;o hoa đ&atilde; được bắn ở 5 điểm l&agrave; sau Nh&agrave; h&aacute;t lớn th&agrave;nh phố, khu c&ocirc;ng nghiệp VSIP, khu quảng trường thị trấn C&aacute;t B&agrave;, khu đầm vu&ocirc;ng v&agrave; bờ hồ huyện Vĩnh Bảo.&nbsp;</p>
+				
+				<p><img style="width:100%" alt="Cùng tìm hiểu về Lễ hội hoa phượng đỏ Hải Phòng với MIA.vn 4" src="https://media.mia.vn/uploads/blog-du-lich/cung-tim-hieu-ve-le-hoi-hoa-phuong-do-hai-phong-voi-miavn-03-1648657950.jpg" /></p>
+				
+				<p>Lễ hội diễn ra với kh&ocirc;ng gian sinh động c&ugrave;ng với &aacute;nh s&aacute;ng đầy m&agrave;u sắc</p>
+				
+				<p><img style="width:100%" alt="Cùng tìm hiểu về Lễ hội hoa phượng đỏ Hải Phòng với MIA.vn 5" src="https://media.mia.vn/uploads/blog-du-lich/cung-tim-hieu-ve-le-hoi-hoa-phuong-do-hai-phong-voi-miavn-04-1648657953.jpg" /></p>
+				
+				<p>C&aacute;c tiết mục văn nghệ được chuẩn bị một c&aacute;ch rất c&ocirc;ng phu v&agrave; b&agrave;i bản</p>
+				
+				<p><img style="width:100%" alt="Cùng tìm hiểu về Lễ hội hoa phượng đỏ Hải Phòng với MIA.vn 6" src="https://media.mia.vn/uploads/blog-du-lich/cung-tim-hieu-ve-le-hoi-hoa-phuong-do-hai-phong-voi-miavn-05-1648657957.jpg" /></p>
+				
+				<p>Bế mạc lễ hội thường c&oacute; những tiết mục kết th&uacute;c ấn tượng c&ugrave;ng với đ&oacute; l&agrave; tiếng ph&aacute;o hoa tưng bừng</p>
+				
+				<p>2.5 Lễ hội hoa phượng đỏ năm 2021</p>
+				
+				<p>V&agrave;o năm 2021, lễ hội hoa phượng đỏ đ&atilde; được tổ chức từ ng&agrave;y 11/05 - 13/05/2021 tại Nh&agrave; h&aacute;t th&agrave;nh phố. Tuy nhi&ecirc;n do ảnh hưởng của dịch, đặc biệt l&agrave; do c&oacute; nhiều ca nhiễm n&ecirc;n Hải Ph&ograve;ng đ&atilde; dừng tổ chức lễ.&nbsp;</p>
+				
+				<p>2.6 Lễ hội hoa phượng đỏ năm 2022</p>
+				
+				<p>Hiện tại, th&agrave;nh phố dự kiến sẽ tổ chức Lễ hội hoa phượng đỏ từ 12/05 - 14/05/2022 tại Nh&agrave; h&aacute;t th&agrave;nh phố Hải Ph&ograve;ng v&agrave; trong lễ lần n&agrave;y sẽ c&oacute; m&agrave;n bắn ph&aacute;o hoa khai mạc. Tuy nhi&ecirc;n, lễ hội n&agrave;y sẽ kh&ocirc;ng c&oacute; kh&aacute;n giả để đảm bảo an to&agrave;n dịch. Dẫu vậy, bạn vẫn c&oacute; thể chi&ecirc;m ngưỡng lễ hội n&agrave;y từ xa, dạo quanh phố phường v&agrave; thưởng thức những m&oacute;n ăn nổi tiếng tại Hải Ph&ograve;ng như&nbsp;<a href="https://mia.vn/cam-nang-du-lich/dam-say-huong-vi-banh-da-cua-hai-phong-gay-bao-thuong-nho-4360" target="_blank">B&aacute;nh đa cua Hải Ph&ograve;ng</a>, dừa dầm Hải Ph&ograve;ng. Đặc biệt l&agrave; bạn kh&ocirc;ng được bỏ lỡ m&oacute;n&nbsp;<a href="https://mia.vn/cam-nang-du-lich/mon-cha-chia-ha-lung-va-su-tich-ra-doi-co-1-0-2-tren-dat-cang-4380" target="_blank">Chả ch&igrave;a Hạ Lũng</a>&nbsp;lừng danh đ&acirc;u đấy nh&eacute;.&nbsp;</p>
+				
+				<p>Lễ hội hoa phượng đỏ Hải Ph&ograve;ng tuy l&agrave; một sản phẩm du lịch mới nhưng vẫn thu h&uacute;t được đ&ocirc;ng đảo nhiều người tham gia. Đừng bỏ lễ hội đặc sắc, hấp dẫn v&agrave; v&ocirc; c&ugrave;ng ho&agrave;nh tr&aacute;ng n&agrave;y khi&nbsp;<a href="https://mia.vn/cam-nang-du-lich/hai-phong" target="_blank">du lịch Hải Ph&ograve;ng</a>, bạn nh&eacute;!</p>
+				',
+                'author' => 'Uyên Phạm',
+                'images' => 'https://ims.baoyenbai.com.vn/NewsImg/4_2022/241592_14-4-le-hoi.jpg',
+                'type_id' => 5,
                 'created_at' => Carbon::now(),
 'is_feature' => 0
             ],

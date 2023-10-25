@@ -41,4 +41,19 @@ class ClientController extends Controller
             'article' => $article,
         ]);
     }
+
+    public function cuisine() {
+        $article = Article::query()->where('type_id', 4)->get();
+        return view('clients.cuisine', ['article' => $article]);
+    }
+
+    public function travel() {
+        $article = Article::query()->whereIn('type_id', [1,2,3])->get();
+        return view('clients.travel', ['article' => $article]);
+    }
+
+    public function culture() {
+        $article = Article::query()->where('type_id', 5)->get();
+        return view('clients.culture', ['article' => $article]);
+    }
 }

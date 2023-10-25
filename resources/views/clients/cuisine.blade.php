@@ -75,4 +75,38 @@
         </div>
     </div>
     <!-- Team End -->
+
+       <!-- Package Start -->
+       <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary px-3">Ẩm thực</h6>
+                <h1 class="mb-5">Bài viết về ẩm thực</h1>
+            </div>
+            <div class="row g-4 justify-content-center mb-5">
+                @foreach($article as $item)
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="package-item">
+                            <div class="overflow-hidden">
+                                <img class="img-fluid" src="{{$item->images}}" alt="" style="height: 300px; object-fit: cover">
+                            </div>
+                            <div class="d-flex border-bottom">
+                                <small class="flex-fill text-center border-end py-2"><i
+                                        class="fa fa-map-marker-alt text-primary me-2"></i>{{$item->type_id}}</small>
+                                <small class="flex-fill text-center border-end py-2"><i
+                                        class="fa fa-calendar-alt text-primary me-2"></i>{{date_format($item->created_at, 'd M Y')}}</small>
+                                <small class="flex-fill text-center py-2"><i class="fa fa-user text-primary me-2"></i>{{$item->author}}</small>
+                            </div>
+                            <div class="text-center p-4">
+                                <p>{{$item->title}}</p>
+                                <div class="d-flex justify-content-center mb-2">
+                                    <a href="{{route('detail', $item->id)}}" class="btn btn-sm btn-primary px-3" style="border-radius: 30px;">Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                @endforeach
+            </div>
 @endsection
+
