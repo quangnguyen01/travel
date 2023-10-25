@@ -45,7 +45,10 @@
             <div class="navbar-nav ms-auto py-0">
                 <a href="{{route('home')}}" class="nav-item nav-link {{url()->current() === route('home') ? 'active' : ''}}">Trang chủ</a>
                 <a href="{{route('list')}}" class="nav-item nav-link {{url()->current() === route('list') ? 'active' : ''}}">Tin tức</a>
-                <a href="{{route('about')}}" class="nav-item nav-link {{url()->current() === route('about') ? 'active' : ''}}">Chúng tôi</a>
+                <a href="{{route('about')}}" class="nav-item nav-link {{url()->current() === route('about') ? 'active' : ''}}">Giới thiệu</a>
+                <a href="{{route('culture')}}" class="nav-item nav-link {{url()->current() === route('culture') ? 'active' : ''}}">Văn hóa</a>
+                <a href="{{route('cuisine')}}" class="nav-item nav-link {{url()->current() === route('cuisine') ? 'active' : ''}}">Ẩm thực</a>
+                <a href="{{route('travel')}}" class="nav-item nav-link {{url()->current() === route('travel') ? 'active' : ''}}">Du lịch</a>
             </div>
     </nav>
 

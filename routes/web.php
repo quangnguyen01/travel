@@ -48,3 +48,15 @@ Route::prefix('admin')->middleware(['auth', Authenticate::class])->group(functio
 Route::get('/about', function () {
     return view('clients/about');
 })->name('about');
+
+Route::get('/cuisine', function () {
+    return view('clients/cuisine');
+})->name('cuisine');
+
+Route::get('/culture', function () {
+    return view('clients/culture');
+})->name('culture');
+
+Route::get('/travel', function () {
+    return view('clients/travel');
+})->name('travel');

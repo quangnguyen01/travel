@@ -47,8 +47,7 @@
         }
 
         .uploaded_file_view.show {
-            display: block;
-        !important;
+            display: block; !important;
         }
 
         .btn_choose_images {
