@@ -134,7 +134,7 @@
 
 @media (min-width: 992px) {
     .navbar-light {
-        position: absolute;
+        background: #1d1d29;
         width: 100%;
         top: 0;
         left: 0;
@@ -172,10 +172,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(https://go2joy.s3.ap-southeast-1.amazonaws.com/blog/wp-content/uploads/2022/02/28000204/bai-tam-cat-co-hai-phong.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    height: 500px
 }
 
 .breadcrumb-item + .breadcrumb-item::before {

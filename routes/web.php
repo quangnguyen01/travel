@@ -4,6 +4,7 @@ use App\Http\Controllers\ArticleController;
 use App\Http\Controllers\ClientController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\TypeController;
+use App\Http\Controllers\FeedbackController;
 use App\Http\Middleware\Authenticate;
 use Illuminate\Support\Facades\Route;
 
@@ -43,6 +44,13 @@ Route::prefix('admin')->middleware(['auth', Authenticate::class])->group(functio
         Route::put('edit/{id}', [ArticleController::class, 'save'])->name('saveArticle');
         Route::get('delete/{id}', [ArticleController::class, 'delete'])->name('deleteArticle');
     });
+
+    Route::prefix('feedbacks')->group(function () {
+        Route::get('', [FeedbackController::class, 'list'])->name('listFeedback');
+        Route::get('edit/{id}', [FeedbackController::class, 'edit'])->name('editFeedback');
+        Route::put('edit/{id}', [FeedbackController::class, 'save'])->name('saveFeedback');
+        Route::get('delete/{id}', [FeedbackController::class, 'delete'])->name('deleteFeedback');
+    });
 });
 
 Route::get('/about', function () {
@@ -52,3 +60,4 @@ Route::get('/about', function () {
 Route::get('/cuisine', [ClientController::class, 'cuisine'])->name('cuisine');
 Route::get('/culture', [ClientController::class, 'culture'])->name('culture');
 Route::get('/travel', [ClientController::class, 'travel'])->name('travel');
+Route::post('/feedback/create', [FeedbackController::class, 'store'])->name('storeFeedback');

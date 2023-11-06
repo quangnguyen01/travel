@@ -1,5 +1,7 @@
-@extends('clients.master')
-@section('content')
+@extends('clients.page')
+@section('page_img')url(https://azlocaltrip.com/wp-content/uploads/2019/11/tam-bac-lake-hai-phong.jpg)@endsection
+@section('page_title') Chi tiết @endsection
+@section('page_content')
     <!-- Package Start -->
     <div class="container-xxl py-5">
         <div class="container">

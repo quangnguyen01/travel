@@ -73,6 +73,12 @@
                     </li>
                 </ul>
             </li>
+            <li class="sidebar_item" style="border: none!important;">
+                <a href="{{route('listFeedback')}}" class="sidebar_item">
+                    <i class="metismenu-icon fas fa-newspaper"></i>
+                    <p>Phản hồi</p>
+                </a>
+            </li>
         </ul>
     </div>
 </div>

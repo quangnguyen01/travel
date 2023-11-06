@@ -1,5 +1,44 @@
-@extends('clients.master')
-@section('content')
+@extends('clients.page')
+@section('page_img')url(https://azlocaltrip.com/wp-content/uploads/2019/11/tam-bac-lake-hai-phong.jpg)@endsection
+@section('page_title')Ẩm thực @endsection
+@section('page_css')
+<style>
+    .img-container {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background: linear-gradient(rgba(20, 20, 31, .7),  rgba(20, 20, 31, .7));
+}
+
+.img-container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+    width:100%;
+    padding: 5px;
+  color: white;
+  font-size: 12px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+</style>
+@endsection
+@section('page_content')
     <!-- About Start -->
     <div class="container-xxl py-5">
         <div class="container">
@@ -33,8 +72,11 @@
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <div class="overflow-hidden">
+                        <div class="overflow-hidden img-container">
                             <img class="img-fluid" src="https://daotaobeptruong.vn/wp-content/uploads/2020/03/banh-da-cua.jpg" alt="" style="height: 200px;object-fit:cover">
+                            <div class="overlay">
+                                <div class="text">Món bánh đa cua (theo truyền thống địa phương luôn sử dụng cua đồng và bánh đa đỏ) và nem cua bể (theo phong cách địa phương hay được gói kiểu hình vuông giống như chiếc bánh chưng ngày Tết) được nhiều người xem là hai món ăn có tính đại diện rõ nhất cho phong cách chế biến ẩm thực của Hải Phòng</div>
+                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Bánh đa cua</h5>
@@ -43,8 +85,11 @@
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <div class="overflow-hidden">
+                        <div class="overflow-hidden img-container">
                             <img class="img-fluid" src="https://cdn.tgdd.vn/Files/2021/12/24/1406445/cach-lam-che-dua-dam-ngon-chuan-vi-hai-phong-tai-nha-202112240108007211.jpg" alt="" style="height: 200px;object-fit:cover">
+                            <div class="overlay">
+                                <div class="text">Thành phần chủ yếu của món ăn này đó chính là những nguyên liệu từ dừa tươi như: Cùi dừa, thạch rau câu làm từ dừa, sữa dừa,… Một cốc dừa dầm thơm ngon hòa tan trong những viên đá mát lạnh sẽ giúp cho bạn cực kỳ thư giãn, làm mát cơ thể trong những ngày hè nóng bức. Bên cạnh đó, vị mát của rau câu, vị ngọt của nước cốt dừa, vị thanh từ dừa tươi sẽ mang lại cho bạn dư vị rất khó quên</div>
+                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Dừa dầm</h5>
@@ -53,8 +98,11 @@
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <div class="overflow-hidden">
+                        <div class="overflow-hidden img-container">
                             <img class="img-fluid" src="https://cdn.tgdd.vn/2020/12/CookProduct/1260-1200x643-42.jpg" alt="" style="height: 200px;object-fit:cover">
+                            <div class="overlay">
+                                <div class="text">Bánh mì cay là một loại bánh mì có xuất xứ từ Hải Phòng. Sở dĩ có hậu tố "que" vì bánh to chỉ hơn đốt ngón tay và dài hơn một gang tay. Vì có hình dáng và hương vị đặc biệt nên loại bánh này đã trở nên nổi tiếng ở vùng đất mà chúng ra đời. Hơn nữa, cộng với giá thành bình dân, món này đã trở thành loại đồ ăn khoái khẩu của nhiều lứa tuổi và tầng lớp khác nhau</div>
+                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Bánh mỳ que</h5>
@@ -63,8 +111,11 @@
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <div class="overflow-hidden">
+                        <div class="overflow-hidden img-container">
                             <img class="img-fluid" src="https://static.vinwonders.com/production/bun-ca-cay-hai-phong-o-ha-noi-12.jpg" alt="" style="height: 200px;object-fit:cover">
+                            <div class="overlay">
+                                <div class="text">Sự hấp dẫn của bún cá cay đối với du khách du lịch Hải Phòng đến từ việc tuyển chọn nguyên liệu khắt khe: cá thu làm chả viên, cá trắm đồng chiên giòn... Bên cạnh đó, món ăn này còn thu hút thực khách bởi hương vị nước dùng ngọt thanh, đậm đà được ninh nhừ từ đầu cá, xương cá và xương heo.</div>
+                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Bún cá cay</h5>
@@ -88,7 +139,9 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="package-item">
                             <div class="overflow-hidden">
+                                <a href="{{route('detail', $item->id)}}">
                                 <img class="img-fluid" src="{{$item->images}}" alt="" style="height: 300px; object-fit: cover">
+                                </a>
                             </div>
                             <div class="d-flex border-bottom">
                                 <small class="flex-fill text-center border-end py-2"><i

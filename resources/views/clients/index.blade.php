@@ -1,4 +1,22 @@
 @extends('clients.master')
+@section('banner')
+<div class="container-fluid bg-primary py-5 mb-5 hero-header" style="background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(https://azlocaltrip.com/wp-content/uploads/2019/11/tam-bac-lake-hai-phong.jpg);background-position: center center;background-repeat: no-repeat;background-size: cover;">
+        <div class="container py-5">
+            <div class="row justify-content-center py-5">
+            <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
+                        <h1 class="display-3 text-white animated slideInDown">About Us</h1>
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb justify-content-center">
+                                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                                <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                                <li class="breadcrumb-item text-white active" aria-current="page">About</li>
+                            </ol>
+                        </nav>
+                    </div>
+            </div>
+        </div>
+    </div>
+@endsection
 @section('content')
     <!-- About Start -->
     <div class="container-xxl py-5">
@@ -129,6 +147,21 @@
                     </a>
                 </div>
             </div>
+            <div class="row mt-3">
+                @foreach($types_carousel as $data)
+                <div class="@if(count($types_carousel) == 1) col-lg-12 @elseif(count($types_carousel) == 2) col-lg-6 @else col-lg-4 @endif col-md-12 wow zoomIn" data-wow-delay="0.1s">
+                            <a class="position-relative d-block overflow-hidden" href="/articles?type={{$data->id}}">
+                                <img class="img-fluid"
+                                     src="{{$data->image}}"
+                                     alt="" style="width: 100%;height: 200px;object-fit:cover">
+                                <div
+                                    class="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
+                                    {{$data->name}}
+                                </div>
+                            </a>
+                        </div>
+                @endforeach
+            </div>
         </div>
     </div>
     <!-- Destination Start -->
@@ -146,7 +179,9 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="package-item">
                             <div class="overflow-hidden">
+                                <a href="{{route('detail', $item->id)}}">
                                 <img class="img-fluid" src="{{$item->images}}" alt="" style="height: 300px; object-fit: cover">
+                                </a>
                             </div>
                             <div class="d-flex border-bottom">
                                 <small class="flex-fill text-center border-end py-2"><i
@@ -180,34 +215,15 @@
                 <h1 class="mb-5">Phản hồi của khách du lịch</h1>
             </div>
             <div class="owl-carousel testimonial-carousel position-relative">
+                @foreach($feedback as $data)
                 <div class="testimonial-item bg-white text-center border p-4">
-                    <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="/assets/img/testimonial-1.jpg"
+                    <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="https://png.pngtree.com/png-vector/20190629/ourmid/pngtree-office-work-user-icon-avatar-png-image_1527655.jpg"
                          style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Jane</h5>
-                    <p>USA</p>
-                    <p class="mb-0">Hai Phong is a great place to travel with very friendly people and beautiful scenery</p>
+                    <h5 class="mb-0">{{$data->name}}</h5>
+                    <p>{{$data->country}}</p>
+                    <p class="mb-0">{{$data->message}}</p>
                 </div>
-                <div class="testimonial-item bg-white text-center border p-4">
-                    <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="/assets/img/testimonial-2.jpg"
-                         style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Alex</h5>
-                    <p>France</p>
-                    <p class="mt-2 mb-0">Hai Phong is a great place to travel with very friendly people and beautiful scenery</p>
-                </div>
-                <div class="testimonial-item bg-white text-center border p-4">
-                    <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="/assets/img/testimonial-3.jpg"
-                         style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">John Doe</h5>
-                    <p>England</p>
-                    <p class="mt-2 mb-0">Hai Phong is a great place to travel with very friendly people and beautiful scenery</p>
-                </div>
-                <div class="testimonial-item bg-white text-center border p-4">
-                    <img class="bg-white rounded-circle shadow p-1 mx-auto mb-3" src="/assets/img/testimonial-4.jpg"
-                         style="width: 80px; height: 80px;">
-                    <h5 class="mb-0">Rachel</h5>
-                    <p>Germany</p>
-                    <p class="mt-2 mb-0">Hai Phong is a great place to travel with very friendly people and beautiful scenery.</p>
-                </div>
+                @endforeach
             </div>
         </div>
     </div>

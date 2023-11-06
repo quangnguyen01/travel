@@ -4,16 +4,19 @@ namespace App\Http\Controllers;
 
 use App\Models\Article;
 use App\Models\Type;
+use App\Models\Feedback;
 use Illuminate\Http\Request;
 
 class ClientController extends Controller
 {
     public function home() {
         $types = Type::query()->limit(3)->get();
-        $last_type = Type::latest('id')->first();
+        $last_type = Type::find(4);
+        $types_carousel = Type::query()->where('id',">",4)->get();
         $query = Article::query();
         $articles = $query->where('is_feature', 1)->limit(3)->get();
-        return view('clients.index', ['type' => $types, 'articles' => $articles, 'lastType' => $last_type]);
+        $feedback = Feedback::query()->where('show', 1)->limit(4)->get();
+        return view('clients.index', ['type' => $types, 'articles' => $articles, 'lastType' => $last_type, 'feedback' => $feedback, 'types_carousel' => $types_carousel]);
     }
 
     public function list(Request $request) {

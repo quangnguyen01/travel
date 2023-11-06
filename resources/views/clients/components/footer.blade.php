@@ -42,8 +42,15 @@
                 <h4 class="text-white mb-3">Thông tin thêm</h4>
                 <p>Để nhận thêm thông tin hãy nhập email của bạn</p>
                 <div class="position-relative mx-auto" style="max-width: 400px;">
-                    <input class="form-control border-primary w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                    <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Gửi</button>
+                <form action="{{route('storeFeedback')}}" method="post">
+                    @csrf
+                    <input class="form-control border-primary w-100 py-3 ps-4 pe-5" type="text" placeholder="Your name" name="name">
+                    <input class="form-control border-primary w-100 py-3 ps-4 pe-5" type="text" placeholder="Your country" name="country">
+                    <input class="form-control border-primary w-100 py-3 ps-4 pe-5" type="text" placeholder="Your message" name="message">
+                    <input type="hidden" value="0" name="show">
+                    <button type="submit" class="btn btn-primary py-2 position-absolute bot-0 end-0 mt-2 me-2">Gửi</button>
+                </form>
+                    
                 </div>
             </div>
         </div>

@@ -1,5 +1,7 @@
-@extends('clients.master')
-@section('content')
+@extends('clients.page')
+@section('page_img')url(https://azlocaltrip.com/wp-content/uploads/2019/11/tam-bac-lake-hai-phong.jpg)@endsection
+@section('page_title')Tin tức @endsection
+@section('page_content')
 <!-- Package Start -->
 <div class="container-xxl py-5">
         <div class="container">
@@ -12,7 +14,9 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="package-item">
                             <div class="overflow-hidden">
+                            <a href="{{route('detail', $item->id)}}">
                                 <img class="img-fluid" src="{{$item->images}}" alt="" style="height: 300px; object-fit: cover">
+                                </a>
                             </div>
                             <div class="d-flex border-bottom">
                                 <small class="flex-fill text-center border-end py-2"><i
@@ -48,7 +52,9 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="package-item">
                             <div class="overflow-hidden">
+                            <a href="{{route('detail', $item->id)}}">
                                 <img class="img-fluid" src="{{$item->images}}" alt="" style="height: 300px; object-fit: cover">
+                                </a>
                             </div>
                             <div class="d-flex border-bottom">
                                 <small class="flex-fill text-center border-end py-2"><i
