@@ -39,8 +39,8 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
-                <h4 class="text-white mb-3">Thông tin thêm</h4>
-                <p>Để nhận thêm thông tin hãy nhập email của bạn</p>
+                <h4 class="text-white mb-3">Đánh giá của bạn</h4>
+                <p>Hãy để lại đánh giá của bạn tại đây</p>
                 <div class="position-relative mx-auto" style="max-width: 400px;">
                 <form action="{{route('storeFeedback')}}" method="post">
                     @csrf
