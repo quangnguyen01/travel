@@ -72,6 +72,7 @@
             <div class="row g-4">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
+                        <a href="{{route('detail', 18)}}">
                         <div class="overflow-hidden img-container">
                             <img class="img-fluid" src="https://daotaobeptruong.vn/wp-content/uploads/2020/03/banh-da-cua.jpg" alt="" style="height: 200px;object-fit:cover">
                             <div class="overlay">
@@ -81,10 +82,12 @@
                         <div class="text-center p-4">
                             <h5 class="mb-0">Bánh đa cua</h5>
                         </div>
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
+                    <a href="{{route('detail', 17)}}">
                         <div class="overflow-hidden img-container">
                             <img class="img-fluid" src="https://cdn.tgdd.vn/Files/2021/12/24/1406445/cach-lam-che-dua-dam-ngon-chuan-vi-hai-phong-tai-nha-202112240108007211.jpg" alt="" style="height: 200px;object-fit:cover">
                             <div class="overlay">
@@ -94,10 +97,12 @@
                         <div class="text-center p-4">
                             <h5 class="mb-0">Dừa dầm</h5>
                         </div>
+                    </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
+                        <a href="{{route('detail', 19)}}">
                         <div class="overflow-hidden img-container">
                             <img class="img-fluid" src="https://cdn.tgdd.vn/2020/12/CookProduct/1260-1200x643-42.jpg" alt="" style="height: 200px;object-fit:cover">
                             <div class="overlay">
@@ -107,10 +112,12 @@
                         <div class="text-center p-4">
                             <h5 class="mb-0">Bánh mỳ que</h5>
                         </div>
+                    </a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
+                        <a href="{{route('detail', 20)}}">
                         <div class="overflow-hidden img-container">
                             <img class="img-fluid" src="https://static.vinwonders.com/production/bun-ca-cay-hai-phong-o-ha-noi-12.jpg" alt="" style="height: 200px;object-fit:cover">
                             <div class="overlay">
@@ -120,6 +127,7 @@
                         <div class="text-center p-4">
                             <h5 class="mb-0">Bún cá cay</h5>
                         </div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -161,5 +169,7 @@
                     </div>
                 @endforeach
             </div>
+        </div>  
+        </div>
 @endsection
 

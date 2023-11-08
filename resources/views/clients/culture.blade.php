@@ -35,6 +35,7 @@
             <div class="row g-4">
                 <div class="col-lg-6 col-md-6 wow fadeInUp" style="position: relative" data-wow-delay="0.1s">
                     <div class="team-item">
+                    <a href="{{route('detail', 15)}}">
                         <div class="overflow-hidden">
                             <img class="img-fluid" src="https://cdnmedia.baotintuc.vn/Upload/a7srThwxbojBCucvUWgnxA/files/2022/04/13/phuong-do-13042022.jpg" alt="" style="width: 100%;height: 300px;object-fit:cover">
                             <div style="position: absolute;bottom: 0;background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);color: #f1f1f1;padding: 20px;margin-right: 12px;">
@@ -42,10 +43,12 @@
                             <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
                         </div>
                         </div>
+                    </a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" style="position: relative" data-wow-delay="0.1s">
                     <div class="team-item">
+                    <a href="{{route('detail', 16)}}">
                         <div class="overflow-hidden">
                             <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/San-lach-tray.jpg" alt="" style="width: 100%;height: 300px;object-fit:cover">
                             <div style="position: absolute;bottom: 0;background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);color: #f1f1f1;padding: 20px;margin-right: 12px;">
@@ -53,10 +56,12 @@
                             <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
                         </div>
                         </div>
+                    </a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" style="position: relative" data-wow-delay="0.1s">
                     <div class="team-item">
+                    <a href="{{route('detail', 13)}}">
                         <div class="overflow-hidden">
                             <img class="img-fluid" src="https://haiphong.gov.vn/upload/haiphong/product/2020/12/DEN-TRANG-KENH-ANH-DUC-NGHIA-2-e12f9d1ab5a54dcda5bff085c3978f20.jpg?maxwidth=1000" alt="" style="width: 100%;height: 300px;object-fit:cover">
                             <div style="position: absolute;bottom: 0;background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);color: #f1f1f1;padding: 20px;margin-right: 12px;">
@@ -64,17 +69,20 @@
                             <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
                         </div>
                         </div>
+                    </a>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" style="position: relative" data-wow-delay="0.1s">
                     <div class="team-item">
+                        <a href="{{route('detail', 14)}}">
                         <div class="overflow-hidden">
                             <img class="img-fluid" src="https://media.mia.vn/uploads/blog-du-lich/kham-pha-di-tich-lich-su-nui-voi-xuat-hien-som-nhat-dat-cang-02-1647068515.jpeg" alt="" style="width: 100%;height: 300px;object-fit:cover">
                             <div style="position: absolute;bottom: 0;background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);color: #f1f1f1;padding: 20px;margin-right: 12px;">
                             <span class="text-white" style="font-size: 30px;">Núi Voi</span>
                             <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
+                            </div>
                         </div>
-                        </div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -116,4 +124,6 @@
                     </div>
                 @endforeach
             </div>
+        </div>
+        </div>
 @endsection

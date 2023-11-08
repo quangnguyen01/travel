@@ -191,7 +191,7 @@ Mong rằng với những&nbsp;<strong>kinh nghiệm đi Food Tour Hải Ph&ogra
                 'images' => 'https://elitetour.com.vn/files/images/Blogs/foodtourhaiphong.jpg',
                 'type_id' => 4,
                 'created_at' => Carbon::now(),
-'is_feature' => 0
+				'is_feature' => 0
             ],
             [
                 'id' => 2,
@@ -1945,6 +1945,731 @@ Tiện tr&ecirc;n h&agrave;nh tr&igrave;nh n&agrave;y du kh&aacute;ch cũng c&oa
                 'created_at' => Carbon::now(),
 'is_feature' => 0
             ],
+			[
+				'id' => 16,
+				'title' => 'Sân lạch Tray - Niềm tự hào của CLB Hải Phòng',
+				'content' => '<p><strong>Kh&ocirc;ng chỉ l&agrave; s&acirc;n nh&agrave; của một trong những CLB gi&agrave;u truyền thống nhất V-League đến nay, s&acirc;n vận động Lạch Tray c&ograve;n gắn liền với sự h&igrave;nh th&agrave;nh v&agrave; ph&aacute;t triển của CLB Hải Ph&ograve;ng. Mỗi khi đến m&ugrave;a V-League, người h&acirc;m mộ b&oacute;ng đ&aacute; Hải Ph&ograve;ng lại c&oacute; dịp được h&ograve;a m&igrave;nh trong kh&ocirc;ng kh&iacute; s&ocirc;i động của &ldquo;chảo lửa&rdquo; Lạch Tray. Với b&oacute;ng đ&aacute; Hải Ph&ograve;ng n&oacute;i ri&ecirc;ng v&agrave; người d&acirc;n đất cảng n&oacute;i chung, Lạch Tray kh&ocirc;ng chỉ l&agrave; một s&acirc;n b&oacute;ng, m&agrave; c&ograve;n l&agrave; một di sản cộng đồng.&nbsp;</strong></p>
+
+				<h2>S&acirc;n vận động Lạch Tray ra đời khi n&agrave;o?</h2>
+				
+				<p>S&acirc;n vận động Lạch Tray được khởi c&ocirc;ng x&acirc;y dựng năm 1957 v&agrave; ch&iacute;nh thức được đưa v&agrave;o sử dụng từ năm 1958. S&acirc;n nằm tr&ecirc;n đường Lạch Tray, quận Ng&ocirc; Quyền, Hải Ph&ograve;ng v&agrave; l&agrave; một trong số những s&acirc;n vận động lớn nhất tại Việt Nam với sức chứa khoảng 28.000 người. Ngo&agrave;i&nbsp;<a href="https://jogarbola.com.vn/blogs/news/kham-pha-lich-su-phat-trien-cua-clb-hai-phong">CLB Hải Ph&ograve;ng</a>, nhiều đội b&oacute;ng kh&aacute;c của th&agrave;nh phố cảng (cả những đội đ&atilde; s&aacute;p nhập, đổi t&ecirc;n, giải thế) cũng từng lấy Lạch Tray l&agrave;m s&acirc;n nh&agrave; như H&oacute;a chất S&ocirc;ng Cấm, Xi măng Hải Ph&ograve;ng, Điện lực Hải Ph&ograve;ng,...&nbsp;</p>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/bd6b3851897b5825016a1_10d28f268e0841789b21249fbda73fd0_grande.jpg"><img src="https://file.hstatic.net/200000365171/file/bd6b3851897b5825016a1_10d28f268e0841789b21249fbda73fd0_grande.jpg" style="width: 100%" /></a></p>
+				
+				<p><em>S&acirc;n Lạch Tray nh&igrave;n từ tr&ecirc;n cao</em></p>
+				
+				<p>Lịch sử h&igrave;nh th&agrave;nh của s&acirc;n k&eacute;o d&agrave;i qua 2 thế kỷ, gắn liền với với chặng đường ph&aacute;t triển của thể thao nước nh&agrave;, của nền thể thao quốc ph&ograve;ng trong chiến tranh. Kh&ocirc;ng chỉ l&agrave; nơi diễn ra những đ&ecirc;m hội quyền Anh trong thời kỳ bom rơi đạn lạc, Lạch Tray c&ograve;n l&agrave; nơi mở đường cho việc ph&aacute;t triển hoạt động điền kinh của Hải Ph&ograve;ng trong thời chiến. SEA Games 22 diễn ra năm 2003, s&acirc;n vận động Lạch Tray vinh dự trở th&agrave;nh nơi tổ chức trận chung kết m&ocirc;n b&oacute;ng đ&aacute; nữ, chứng kiến đội tuyển nữ Việt Nam gi&agrave;nh Huy chương v&agrave;ng.</p>
+				
+				<p>N&oacute;i về s&acirc;n vận động đặc biệt n&agrave;y, b&agrave; Trần Thị Ho&agrave;ng Mai, Gi&aacute;m đốc Sở Văn h&oacute;a v&agrave; thể Thao Hải Ph&ograve;ng c&ograve;n kh&ocirc;ng ngần ngại khẳng định s&acirc;n Lạch Tray ho&agrave;n to&agrave;n đủ khả năng trở th&agrave;nh một di t&iacute;ch của th&agrave;nh phố.&nbsp;</p>
+				
+				<p>Đ&oacute; l&agrave; vai tr&ograve; của s&acirc;n Lạch Tray với thể thao n&oacute;i chung. C&ograve;n với b&oacute;ng đ&aacute; Hải Ph&ograve;ng n&oacute;i ri&ecirc;ng, v&agrave;i chục năm qua, việc cuối tuần &ldquo;đi Tray&rdquo; xem b&oacute;ng đ&aacute; đ&atilde; trở th&agrave;nh th&oacute;i quen của nhiều người d&acirc;n Hải Ph&ograve;ng. Thế mới thấy s&acirc;n vận động Lạch Tray mang nhiều &yacute; nghĩa như thế n&agrave;o với người d&acirc;n đất Cảng.</p>
+				
+				<h2>Cấu tr&uacute;c thiết kế của s&acirc;n vận động Lạch Tray</h2>
+				
+				<p>S&acirc;n Lạch Tray được chia th&agrave;nh nhiều khu vực, mỗi khu vực c&oacute; một thiết kế kh&aacute;c nhau.&nbsp;</p>
+				
+				<ul>
+					<li><strong>Kh&aacute;n đ&agrave;i A</strong></li>
+				</ul>
+				
+				<p>L&agrave; kh&aacute;n đ&agrave;i c&oacute; m&aacute;i che gồm 2 tầng hiện đại nhất của s&acirc;n. Kh&aacute;n đ&agrave;i A c&oacute; sức chứa 15.000 người với ghế được lắp đặt tr&ecirc;n to&agrave;n bộ kh&aacute;n đ&agrave;i.&nbsp;</p>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/img_7085_5ecfa4340b914247bcbd92354b34f110_grande.jpeg"><img src="https://file.hstatic.net/200000365171/file/img_7085_5ecfa4340b914247bcbd92354b34f110_grande.jpeg" style="width: 100%" /></a></p>
+				
+				<p><em>Mỗi khu vực s&acirc;n c&oacute; thiết kế v&agrave; cấu tr&uacute;c kh&aacute;c nhau</em></p>
+				
+				<ul>
+					<li><strong>Kh&aacute;n đ&agrave;i B</strong></li>
+				</ul>
+				
+				<p>Đ&acirc;y l&agrave; kh&aacute;n đ&agrave;i c&oacute; sức chứa 10.000 người, l&agrave; nơi tụ họp nhiều cổ động vi&ecirc;n nhiệt t&igrave;nh nhất, với ghế ngồi được xếp theo m&agrave;u để hiển thị chữ Lạch Tray. Kh&aacute;n đ&agrave;i B chỉ c&oacute; 1 tầng c&oacute; một phần nhỏ c&oacute; m&aacute;i che.&nbsp;</p>
+				
+				<ul>
+					<li><strong>Kh&aacute;n đ&agrave;i C v&agrave; D</strong></li>
+				</ul>
+				
+				<p>Đ&acirc;y l&agrave; 2 kh&aacute;n đ&agrave;i xa cầu m&ocirc;n nhất, kh&ocirc;ng c&oacute; m&aacute;i che, kh&ocirc;ng c&oacute; ghế ngồi, với sức chứa 2500 người mỗi kh&aacute;n đ&agrave;i. Kh&aacute;n đ&agrave;i C v&agrave; D chỉ được sử dụng đến trong trường hợp c&aacute;c kh&aacute;n đ&agrave;i c&ograve;n lại kh&ocirc;ng đ&aacute;p ứng đủ nhu cầu.&nbsp;</p>
+				
+				<h2>Qu&aacute; tr&igrave;nh cải tạo của s&acirc;n vận động Lạch Tray</h2>
+				
+				<p>Năm 1957 khi lần đầu khởi c&ocirc;ng, Lạch Tray vốn l&agrave; s&acirc;n đua ngựa với phần kh&aacute;n đ&agrave;i được l&agrave;m bằng đất. M&atilde;i đến năm 1959, khu vực kh&aacute;n đ&agrave;i của s&acirc;n mới được đổi từ gỗ, đất sang xi măng v&agrave; trang bị th&ecirc;m m&aacute;i che cho một số khu vực kh&aacute;n đ&agrave;i.&nbsp;</p>
+				
+				<p>Kể từ khi ra đời đến nay, s&acirc;n Lạch Tray đ&atilde; trải qua kh&ocirc;ng &iacute;t lần cải tạo, mỗi lần đều mang đến cho s&acirc;n những sự thay đổi mới mẻ.</p>
+				
+				<p><strong>Lần cải tạo đầu ti&ecirc;n</strong></p>
+				
+				<p>Năm 1977 đ&aacute;nh dấu lần đầu cải tạo v&agrave; sửa chữa của s&acirc;n vận động Lạch Tray, nhằm khắc phục hậu quả của việc Mỹ đ&aacute;nh bom năm 1972. Trong lần cải tạo n&agrave;y, 4 gi&agrave;n đ&egrave;n cao hơn 30m đ&atilde; được lắp mới để phục vụ cho c&aacute;c trận đấu diễn ra v&agrave;o buổi tối. S&acirc;n Lạch Tray l&uacute;c n&agrave;y vẫn c&ograve;n được gọi l&agrave; s&acirc;n Trung t&acirc;m.</p>
+				
+				<p><strong>Lần cải tạo thứ 2</strong></p>
+				
+				<p>S&acirc;n Lạch Tray tiếp tục c&oacute; th&ecirc;m nhiều đợt sửa chữa v&agrave;o năm 1995. Trong lần cải tạo n&agrave;y, kh&aacute;n đ&agrave;i A v&agrave; B được sửa chữa lại, kh&aacute;n đ&agrave;i C v&agrave; D được x&acirc;y dựng th&ecirc;m. Đường chạy điền kinh v&agrave; mặt s&acirc;n cũng được sửa chữa với kinh ph&iacute; ban đầu l&agrave; gần 35 tỷ đồng.&nbsp;</p>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/z2483280091845_c5db4e96acaebd897521d90b9ebf3606_psiz_cf13f720c41f49cd88e7177469f87359_grande.jpg"><img src="https://file.hstatic.net/200000365171/file/z2483280091845_c5db4e96acaebd897521d90b9ebf3606_psiz_cf13f720c41f49cd88e7177469f87359_grande.jpg" style="width: 100%" /></a></p>
+				
+				<p><em>Mỗi lần cải tạo đều mang đến cho s&acirc;n một diện mạo ho&agrave;n to&agrave;n mới</em></p>
+				
+				<p><strong>Lần cải tạo thứ 3 v&agrave; 4</strong></p>
+				
+				<p>Đợt cải tạo thứ 3 của s&acirc;n Lạch Tray diễn ra v&agrave;o năm 2001. Điểm nhấn của lần cải tạo n&agrave;y l&agrave; việc lắp bảng điện tử với chi ph&iacute; gần 15 tỷ đồng.&nbsp;</p>
+				
+				<p><strong>Lần cải tạo thứ 5&nbsp;</strong></p>
+				
+				<p>Năm 2023, s&acirc;n vận động Lạch Tray bắt đầu c&oacute; dấu hiệu xuống cấp ngi&ecirc;m trọng. V&igrave; thế, lần cải tọa thứ 5 được triển khai cho s&acirc;n vận động n&agrave;y nhằm mang đến chất lượng tập luyện v&agrave; thi đấu tốt nhất cho c&aacute;c cầu thủ Hải Ph&ograve;ng.</p>
+				
+				<p><strong>Lần cải tạo thứ 6</strong></p>
+				
+				<p>Lần cải tạo thứ 6 v&agrave;o th&aacute;ng 5 năm 2021 được xem l&agrave; lần cải tạo lớn nhất, gi&uacute;p s&acirc;n Lạch Tray lột x&aacute;c ho&agrave;n to&agrave;n với chi ph&iacute; cải tạo l&ecirc;n tới hơn 65 tỷ đồng.&nbsp;</p>
+				
+				<p>Trong lần t&aacute;i sửa chữa n&agrave;y, s&acirc;n Lạch Tray được:</p>
+				
+				<ul>
+					<li>Thay mới mặt s&acirc;n bằng cỏ Bermuda nhập khẩu từ Mỹ, với đội ngũ nh&acirc;n vi&ecirc;n chăm s&oacute;c định kỳ theo tuần, sử dụng m&aacute;y m&oacute;c cắt cỏ hiện đại.</li>
+					<li>Lắp đặt hệ thống bơm nước tự động ho&agrave;n to&agrave;n.</li>
+					<li>Đầu tư hệ thống ghế mới tr&ecirc;n kh&aacute;n đ&agrave;i.</li>
+					<li>Sửa chữa, sắp xếp lại ph&ograve;ng thay đồ của cầu thủ cho sạch sẽ, khang trang.</li>
+					<li>Lắp đặt thiết bị mới hiện đại, t&acirc;n tiến cho nh&agrave; vệ sinh.&nbsp;</li>
+				</ul>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/321955639_1240083943524691_2138385297440880470_n_00f856ee3c274bbc92e32c4ce45c9748_grande.jpg"><img src="https://file.hstatic.net/200000365171/file/321955639_1240083943524691_2138385297440880470_n_00f856ee3c274bbc92e32c4ce45c9748_grande.jpg" style="width: 100%" /></a></p>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/321995791_1224417884814730_5988693403219912360_n_0f11620b04014376929321672c1226a4_grande.jpg"><img src="https://file.hstatic.net/200000365171/file/321995791_1224417884814730_5988693403219912360_n_0f11620b04014376929321672c1226a4_grande.jpg" style="width: 100%" /></a></p>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/353637122_902477397905123_3061573002048469776_n_f7acfa0302c6446d9636175e82445e63_grande.jpg"><img src="https://file.hstatic.net/200000365171/file/353637122_902477397905123_3061573002048469776_n_f7acfa0302c6446d9636175e82445e63_grande.jpg" style="width: 100%" /></a></p>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/321938520_1612963382479216_5081435588034810985_n_5e84f17c842b4cf588a88d8320d9b030_grande.jpg"><img src="https://file.hstatic.net/200000365171/file/321938520_1612963382479216_5081435588034810985_n_5e84f17c842b4cf588a88d8320d9b030_grande.jpg" style="width: 100%" /></a></p>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/322492184_5596627287112929_2378036180937947176_n_3992958b151542a6b4fa1cfd5d354dd9_grande.jpg"><img src="https://file.hstatic.net/200000365171/file/322492184_5596627287112929_2378036180937947176_n_3992958b151542a6b4fa1cfd5d354dd9_grande.jpg" style="width: 100%" /></a></p>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/322475853_615872970295818_1662806276451494663_n_93939be7f00b42a2b11d9be3ce0583be_grande.jpg"><img src="https://file.hstatic.net/200000365171/file/322475853_615872970295818_1662806276451494663_n_93939be7f00b42a2b11d9be3ce0583be_grande.jpg" style="width: 100%" /></a></p>
+				
+				<p><em>H&igrave;nh ảnh mới nhất của s&acirc;n vận động Lạch Tray sau lần cải tạo năm 2021</em></p>
+				
+				<p>Lần cải tạo năm 2021 đ&atilde; g&oacute;p phần mang đến diện mạo mới cho s&acirc;n vận động Lạch Tray, n&acirc;ng tầm chất lượng s&acirc;n l&ecirc;n ngang h&agrave;ng với nhiều s&acirc;n vận động chất lượng kh&aacute;c tr&ecirc;n cả nước. Mặc d&ugrave; kh&ocirc;ng thể so s&aacute;nh với Mỹ Đ&igrave;nh hay Cần Thơ về mặt quy m&ocirc;, nhưng nền cơ sở vật chất của s&acirc;n Lạch Tray ho&agrave;n to&agrave;n c&oacute; thể được xem l&agrave; ti&ecirc;n phong cho c&aacute;c s&acirc;n vận động kh&aacute;c trong nước.</p>
+				
+				<p><a href="https://file.hstatic.net/200000365171/file/lth_7365_6d8e296c8aa54691bff158ec243b0085_grande.jpg"><img src="https://file.hstatic.net/200000365171/file/lth_7365_6d8e296c8aa54691bff158ec243b0085_grande.jpg" /></a></p>
+				
+				<p><em>S&acirc;n vận động Lạch Tray l&agrave; s&acirc;n nh&agrave; của CLB Hải Ph&ograve;ng</em></p>
+				
+				<p>Với những thay đổi mới mẻ, s&acirc;n Lạch Tray xứng đ&aacute;ng l&agrave; lựa chọn ho&agrave;n hảo để tổ chức c&aacute;c giải đấu thể thao lớn trong nước v&agrave; khu vực.</p>
+				
+				<p>Để biết th&ecirc;m th&ocirc;ng tin về c&aacute;c trận đấu của CLB Hải Ph&ograve;ng tại s&acirc;n vận động Lạch Tray v&agrave; th&ocirc;ng tin về c&aacute;c hoạt động t&agrave;i trợ kh&aacute;c cho đội b&oacute;ng, đừng qu&ecirc;n theo d&otilde;i&nbsp;<a href="https://www.facebook.com/jogarbolavn">fanpage Jogarbola</a>&nbsp;mỗi ng&agrave;y để được cập nhật sớm nhất.&nbsp;</p>',
+				'author' => 'Phương Anh',
+				'type_id' => 5,
+				'images' => 'https://file.hstatic.net/200000365171/file/lth_7365_6d8e296c8aa54691bff158ec243b0085_grande.jpg',
+				'createad_at' => Carbon::now(),
+				'is_feature' => 0
+			],
+			[
+				'id' => 17,
+				'title' => 'Đến Hải Phòng phải thử NGAY dừa dầm NGON NGỌT siêu mê',
+				'content' => '<h2>Để c&oacute; được m&oacute;n dừa dầm thơm ngon, cần kh&eacute;o l&eacute;o trong từng kh&acirc;u chuẩn bị, chế biến. Bật m&iacute; c&aacute;ch l&agrave;m dừa dầm chuẩn vị Hải Ph&ograve;ng cực dễ, thực h&agrave;nh ngay tại nh&agrave;.</h2>
+
+				<p><img alt="dừa dầm" src="https://statics.vinpearl.com/dua-dam-1_1628329821.jpg" style="width:100%" /><em>H&igrave;nh ảnh ch&egrave; dừa dầm ngon nức tiếng tại Hải Ph&ograve;ng (Ảnh: Sưu tầm)</em></p>
+				
+				<p>Văn h&oacute;a ẩm thực độc đ&aacute;o gi&uacute;p du lịch Hải Ph&ograve;ng ng&agrave;y c&agrave;ng ph&aacute;t triển. Trong đ&oacute;,&nbsp;<strong>dừa dầm</strong>&nbsp;l&agrave; m&oacute;n ăn nhất định phải thử trong chuyến &ldquo;food tour&rdquo; tại th&agrave;nh phố n&agrave;y. M&oacute;n ăn b&igrave;nh dị nhưng khiến cho nhiều du kh&aacute;ch m&ecirc; đắm mỗi lần thưởng thức. Với c&ocirc;ng thức đơn giản, bạn c&oacute; thể l&agrave;m dừa dầm chuẩn vị Hải Ph&ograve;ng ngay tại nh&agrave;.</p>
+				
+				<h2>1. Dừa dầm &ndash; M&oacute;n ăn vặt đặc trưng tại Hải Ph&ograve;ng</h2>
+				
+				<p>Dừa dầm l&agrave; m&oacute;n ăn đ&atilde; c&oacute; mặt từ l&acirc;u trong bản đồ&nbsp;<strong><a href="https://vinpearl.com/vi/kham-pha-15-dac-san-hai-phong-gay-thuong-nho-lam-nuc-long-thuc-khach">đặc sản Hải Ph&ograve;ng</a></strong>&nbsp;nhưng gần đ&acirc;y mới được c&aacute;c t&iacute;n đồ du lịch đất cảng kh&aacute;m ph&aacute; v&agrave; v&ocirc; c&ugrave;ng y&ecirc;u th&iacute;ch v&igrave; hương vị mộc mạc nhưng dễ g&acirc;y nghiện của m&oacute;n ăn vặt n&agrave;y.&nbsp;</p>
+				
+				<p><img alt="dừa dầm" src="https://statics.vinpearl.com/dua-dam-2_1628329862.jpg" style="width:100%" /><em>Nguy&ecirc;n liệu ch&iacute;nh l&agrave;m n&ecirc;n m&oacute;n ăn n&agrave;y l&agrave; c&aacute;c th&agrave;nh phần của dừa tươi (Ảnh: bachuaviahe)</em></p>
+				
+				<p>Th&agrave;nh phần chủ yếu của m&oacute;n ăn n&agrave;y đ&oacute; ch&iacute;nh l&agrave; những nguy&ecirc;n liệu từ dừa tươi như: C&ugrave;i dừa, thạch rau c&acirc;u l&agrave;m từ dừa, sữa dừa,&hellip; Một cốc dừa dầm thơm ngon h&ograve;a tan trong những vi&ecirc;n đ&aacute; m&aacute;t lạnh sẽ gi&uacute;p cho bạn cực kỳ thư gi&atilde;n, l&agrave;m m&aacute;t cơ thể trong những ng&agrave;y h&egrave; n&oacute;ng bức.&nbsp;B&ecirc;n cạnh đ&oacute;, vị m&aacute;t của rau c&acirc;u, vị ngọt của nước cốt dừa, vị thanh từ dừa tươi sẽ mang lại cho bạn dư vị rất kh&oacute; qu&ecirc;n. M&oacute;n ăn n&agrave;y rất &ldquo;được l&ograve;ng&rdquo; du kh&aacute;ch khi c&oacute; dịp&nbsp;<strong><a href="https://vinpearl.com/vi/review-tron-bo-bi-kip-du-lich-hai-phong-tu-tuc">du lịch Hải Ph&ograve;ng</a></strong>.&nbsp;</p>
+				
+				<h2>2. C&ocirc;ng thức dừa dầm ngon &ldquo;qu&ecirc;n sầu&rdquo;</h2>
+				
+				<p>L&agrave;m&nbsp;<em>dừa dầm</em>&nbsp;Hải Ph&ograve;ng kh&aacute; dễ với một v&agrave;i nguy&ecirc;n liệu cơ bản. Với những t&iacute;n đồ &ldquo;m&ecirc;&rdquo; nấu nướng th&igrave; n&ecirc;n thử ngay m&oacute;n ăn vặt n&agrave;y để &ldquo;giải nhiệt&rdquo; cho cả gia đ&igrave;nh trong những ng&agrave;y nắng n&oacute;ng.&nbsp;</p>
+				
+				<h3>2.1. Nguy&ecirc;n liệu l&agrave;m dừa dầm&nbsp;</h3>
+				
+				<p>Để l&agrave;m dừa dầm ngon, kh&acirc;u chuẩn bị nguy&ecirc;n liệu kh&aacute; quan trọng. Hầu hết nguy&ecirc;n liệu ch&iacute;nh l&agrave; dừa n&ecirc;n bạn cần chuẩn bị từ 1 &ndash; 2 quả dừa tươi. Thay v&igrave; mua từng loại b&aacute;n sẵn ở chợ, bạn n&ecirc;n mua nguy&ecirc;n quả v&agrave; t&aacute;ch th&agrave;nh c&aacute;c phần nước, c&ugrave;i v&agrave; tự b&agrave;o nhỏ tại nh&agrave;.&nbsp;</p>
+				
+				<p><img alt="dừa dầm" src="https://statics.vinpearl.com/dua-dam-3_1628329903.jpg" style="width:100%" /><em>Cần chuẩn bị c&aacute;c nguy&ecirc;n liệu kỹ c&agrave;ng để c&oacute; m&oacute;n dừa dầm chuẩn vị Hải Ph&ograve;ng (Ảnh: Sưu tầm)</em></p>
+				
+				<p><strong>Chuẩn bị nguy&ecirc;n liệu bao gồm:&nbsp;</strong></p>
+				
+				<ul>
+					<li>C&ugrave;i dừa: 1kg</li>
+					<li>Nước cốt dừa: 500 &ndash; 800ml (C&oacute; thể mua sẵn ở c&aacute;c si&ecirc;u thị)</li>
+					<li>Đường: 80g</li>
+					<li>Sữa đặc: 100ml</li>
+					<li>Muối</li>
+					<li>Bột bắp/bột gạo: 50g</li>
+					<li>Bột rau c&acirc;u: 1 g&oacute;i</li>
+					<li>Nước lọc: 500ml</li>
+					<li>Bột năng: 600g</li>
+				</ul>
+				
+				<h3>2.2. C&aacute;ch l&agrave;m dừa dầm Hải Ph&ograve;ng&nbsp;</h3>
+				
+				<p>2.2.1. L&agrave;m thạch rau c&acirc;u dừa</p>
+				
+				<p>Để c&oacute; thể l&agrave;m dừa dầm ngon đ&uacute;ng vị Hải Ph&ograve;ng th&igrave; c&ocirc;ng đoạn l&agrave;m thạch rau c&acirc;u hết sức quan trọng. C&oacute; hai loại thạch m&agrave; bạn c&oacute; thể thử l&agrave;m đ&oacute; ch&iacute;nh l&agrave; thạch rau c&acirc;u dừa non v&agrave; thạch nước dừa tươi.&nbsp;</p>
+				
+				<ul>
+					<li><strong>Thạch rau c&acirc;u trắng dừa non:&nbsp;</strong>Bạn cần cho một nửa g&oacute;i bột rau c&acirc;u trộn với đường rồi cho v&agrave;o nước lọc khuấy đều. Sau đ&oacute; đun s&ocirc;i hỗn hợp n&agrave;y l&ecirc;n. L&uacute;c n&agrave;y, bạn cho th&ecirc;m nước cốt dừa để tạo th&agrave;nh m&agrave;u trắng đục tương tự với phần dừa non, li&ecirc;n tục khuấy đều hỗn hợp cho đến khi nước s&ocirc;i. Sau đ&oacute; chỉ cần cho v&agrave;o khu&ocirc;n v&agrave; để ngăn m&aacute;t tủ lạnh khoảng 1 &ndash; 2 tiếng.&nbsp;</li>
+				</ul>
+				
+				<p><img alt="dừa dầm" src="https://statics.vinpearl.com/dua-dam-4_1628329979.jpg" style="width:100%" /><em>Thạch rau c&acirc;u l&agrave; một trong những th&agrave;nh phần kh&ocirc;ng thể thiếu của m&oacute;n ăn vặt n&agrave;y (Ảnh: Sưu tầm)</em></p>
+				
+				<ul>
+					<li><strong>Thạch nước dừa tươi:&nbsp;</strong>Sử dụng nước dừa để thay thế cho phần nước lọc như c&ocirc;ng thức tr&ecirc;n. Ở phần n&agrave;y, bạn c&oacute; thể giảm bớt một &iacute;t đường để giữ được vị ngọt thơm của nước dừa.&nbsp;</li>
+				</ul>
+				
+				<p>2.2.2. L&agrave;m sữa dừa</p>
+				
+				<p>D&ugrave;ng một lượng nước dừa vừa đủ đun s&ocirc;i với đường, th&ecirc;m một lượng muối nhỏ. Với những ai y&ecirc;u th&iacute;ch sữa dừa c&oacute; độ s&aacute;nh th&igrave; c&oacute; thể cho th&ecirc;m bột bắp hoặc bột gạo v&agrave; khuấy đều.&nbsp;</p>
+				
+				<p><img alt="dừa dầm" src="https://statics.vinpearl.com/dua-dam-5_1628330008.jpg" style="width:100%" /><em>Sữa dừa thơm ngon, b&eacute;o ngậy (Ảnh: Sưu tầm)</em></p>
+				
+				<p>Sau khi đun khoảng 10 &ndash; 15 ph&uacute;t, cho sữa đặc v&agrave;o hỗn hợp v&agrave; tiếp tục khuấy đều. L&uacute;c n&agrave;y, bạn tắt bếp v&agrave; để nguội hỗn hợp l&agrave; ho&agrave;n th&agrave;nh c&ocirc;ng đoạn sữa dừa.&nbsp;</p>
+				
+				<p>2.2.3. L&agrave;m tr&acirc;n ch&acirc;u dừa</p>
+				
+				<ul>
+					<li><strong>Bước 1:&nbsp;</strong>R&acirc;y qua phần bột năng để bột c&oacute; được độ mịn nhất định. Th&ecirc;m nước ấm từ từ v&agrave;o bột. Bước n&agrave;y bạn cần thực hiện đều tay để đảm bảo đủ lượng nước cho bột s&aacute;nh lại. Sau khi bột đủ mềm mịn th&igrave; c&oacute; thể d&ugrave;ng m&agrave;ng bọc thực phẩm bao khối bột lại.&nbsp;</li>
+					<li><strong>Bước 2:</strong>&nbsp;Phần c&ugrave;i dừa rửa sạch với nước lọc, th&aacute;i th&agrave;nh những vi&ecirc;n như hạt lựu nhỏ. Sau đ&oacute; d&ugrave;ng bột để lăn tr&ograve;n c&ugrave;ng hạt dừa n&agrave;y, tạo vi&ecirc;n tr&acirc;n ch&acirc;u nh&acirc;n dừa.</li>
+				</ul>
+				
+				<p><img alt="dừa dầm" src="https://statics.vinpearl.com/dua-dam-6_1628330053.jpg" style="width:100%" /><em>Tr&acirc;n ch&acirc;u l&agrave; loại topping được nhiều bạn trẻ y&ecirc;u th&iacute;ch khi thưởng thức dừa dầm (Ảnh: Sưu tầm)</em></p>
+				
+				<ul>
+					<li><strong>Bước 3:</strong>&nbsp;Nấu một nồi nước s&ocirc;i, sau khi nước thật s&ocirc;i th&igrave; cho c&aacute;c vi&ecirc;n tr&acirc;n ch&acirc;u đ&atilde; nặn v&agrave;o. Luộc đến khi vi&ecirc;n tr&acirc;n ch&acirc;u nổi tr&ecirc;n mặt nước th&igrave; đ&atilde; ch&iacute;n. Khi vớt n&ecirc;n cho v&agrave;o một b&aacute;t nước lạnh để duy tr&igrave; độ dẻo v&agrave; kh&ocirc;ng bị kết d&iacute;nh. Như vậy bạn đ&atilde; c&oacute; một mẻ tr&acirc;n ch&acirc;u dừa cực ngon cho m&oacute;n ăn của m&igrave;nh.&nbsp;</li>
+				</ul>
+				
+				<p>2.2.4. Ho&agrave;n thiện v&agrave; thưởng thức</p>
+				
+				<p>Sau khi ho&agrave;n thiện c&aacute;c bước chế biến tr&ecirc;n, bạn chỉ cần trộn c&aacute;c th&agrave;nh phần lại, cho th&ecirc;m một &iacute;t đ&aacute;, dừa tươi nạo sợi l&agrave; c&oacute; thể thưởng thức m&oacute;n ăn thơm ngon, chuẩn vị Hải Ph&ograve;ng. Thực tế, m&oacute;n ăn n&agrave;y c&oacute; rất nhiều c&aacute;ch biến tấu kh&aacute;c nhau, t&ugrave;y v&agrave;o sở th&iacute;ch của từng người, v&iacute; dụ như: dừa dầm tr&acirc;n ch&acirc;u, dừa dầm milo, dừa dầm c&agrave; ph&ecirc;, dừa dầm sữa chua, dừa dầm kem&hellip;</p>
+				
+				<p><img alt="dừa dầm" src="https://statics.vinpearl.com/dua-dam-7_1628330084.jpg" style="width:100%" /></p>
+				
+				<p><em>M&oacute;n dừa dầm thanh m&aacute;t ph&ugrave; hợp với những ng&agrave;y h&egrave; nắng n&oacute;ng (Ảnh: Sưu tầm)</em></p>
+				
+				<p>Bạn c&oacute; thể c&acirc;n đối theo khẩu vị của từng th&agrave;nh vi&ecirc;n trong gia đ&igrave;nh để &ldquo;biến h&oacute;a&rdquo; m&oacute;n dừa dầm đa dạng m&agrave; vẫn ngon chuẩn vị Hải Ph&ograve;ng.&nbsp;<br />
+				&nbsp;</p>
+				
+				<h2>3. Kh&aacute;m ph&aacute; 5 địa chỉ dừa dầm ngon ở Hải Ph&ograve;ng</h2>
+				
+				<h3>3.1. Dừa dầm c&ocirc; Tuyến - Chuy&ecirc;n dừa dầm Hải Ph&ograve;ng</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ:&nbsp;</strong>100/124 đường Lạch Tray &ndash; Ng&ocirc; Quyền &ndash; Hải Ph&ograve;ng.&nbsp;</li>
+					<li><strong>Gi&aacute; tham khảo:</strong>&nbsp;25.000 &ndash; 35.000 VNĐ/ly.&nbsp;</li>
+				</ul>
+				
+				<p>Đ&acirc;y l&agrave; qu&aacute;n l&acirc;u đời với c&aacute;ch l&agrave;m dừa dầm ngon đặc trưng. Một cốc tại đ&acirc;y c&oacute; mức gi&aacute; chỉ từ 25.000 VNĐ, bạn c&oacute; thể cảm nhận được vị thơm ngon, b&eacute;o ngậy kh&oacute; cưỡng của m&oacute;n ăn vặt n&agrave;y.&nbsp;</p>
+				
+				<h3>3.2. Dừa dầm Hiền B&eacute;o - Đặc sản dừa dầm Hải Ph&ograve;ng</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ:</strong>&nbsp;số 124, đường Lạch Tray &ndash; Ng&ocirc; Quyền &ndash; Hải Ph&ograve;ng.&nbsp;</li>
+					<li><strong>Gi&aacute; tham khảo:</strong>&nbsp;30.000 VNĐ/ly.&nbsp;</li>
+				</ul>
+				
+				<p>L&agrave; một qu&aacute;n vỉa h&egrave; b&ecirc;n đường nhưng qu&aacute;n Hiền B&eacute;o vẫn thu h&uacute;t một lượng lớn kh&aacute;ch gh&eacute; thăm. Nguy&ecirc;n liệu tại qu&aacute;n được chế biến kỹ c&agrave;ng theo c&ocirc;ng thức ri&ecirc;ng, v&igrave; vậy nếu bạn muốn ăn một cốc dừa dầm chuẩn vị Hải Ph&ograve;ng th&igrave; n&ecirc;n lựa chọn địa điểm n&agrave;y.&nbsp;</p>
+				
+				<p><img alt="dừa dầm" src="https://statics.vinpearl.com/dua-dam-8_1628330158.jpg" style="width:100%" /><em>Dừa dầm được b&aacute;n tại nhiều địa chỉ ở Hải Ph&ograve;ng (Ảnh: Sưu tầm)</em></p>
+				
+				<h3>3.3. Dừa dầm chị H&agrave; - Dừa dầm Hải Ph&ograve;ng ngon nhất</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ:</strong>&nbsp;Số 9/126 đường Đằng Giang &ndash; Ng&ocirc; Quyền &ndash; Hải Ph&ograve;ng.&nbsp;</li>
+					<li><strong>Gi&aacute; tham khảo:</strong>&nbsp;20.000 &ndash; 50.000 VNĐ/ly.&nbsp;</li>
+				</ul>
+				
+				<p>Kh&ocirc;ng chỉ c&oacute; m&oacute;n dừa dầm ngon chuẩn vị m&agrave; tại qu&aacute;n n&agrave;y c&ograve;n c&oacute; rất nhiều loại đồ uống ngon, bổ dưỡng kh&aacute;c. Đ&acirc;y thật sự l&agrave; một địa điểm bạn n&ecirc;n lựa chọn trong chuyến &ldquo;food tour&rdquo; tại Hải Ph&ograve;ng.&nbsp;</p>
+				
+				<h3>3.4. Dừa dầm Miếu Hai X&atilde;</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ:&nbsp;</strong>138 đường Miếu Hai X&atilde; &ndash; L&ecirc; Ch&acirc;n &ndash; Hải Ph&ograve;ng.&nbsp;</li>
+					<li><strong>Gi&aacute; tham khảo:&nbsp;</strong>15.000 VNĐ/ly.&nbsp;</li>
+				</ul>
+				
+				<p>Một trong những địa chỉ c&oacute; mức gi&aacute; cực rẻ đ&oacute; ch&iacute;nh l&agrave; Miếu Hai X&atilde;. V&igrave; vậy, qu&aacute;n ăn n&agrave;y thu h&uacute;t rất nhiều kh&aacute;ch du lịch, đặc biệt l&agrave; c&aacute;c bạn học sinh, sinh vi&ecirc;n. M&oacute;n dừa dầm tại đ&acirc;y đủ vị với vị tr&acirc;n ch&acirc;u, thạch, sữa,&hellip; Ngo&agrave;i ra, phong c&aacute;ch phục vụ th&acirc;n thiện của chủ qu&aacute;n cũng l&agrave; điều n&iacute;u ch&acirc;n du kh&aacute;ch.&nbsp;</p>
+				
+				<h3>3.5. C&ocirc; Th&uacute;y - ch&egrave; dừa dầm Hải Ph&ograve;ng ngon</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ:</strong>&nbsp;124 đường Lạch Tray &ndash; Ng&ocirc; Quyền &ndash; Hải Ph&ograve;ng.&nbsp;</li>
+					<li><strong>Gi&aacute; tham khảo:&nbsp;</strong>20.000 &ndash; 30.000 VNĐ.&nbsp;</li>
+				</ul>
+				
+				<p>M&oacute;n dừa dầm của c&ocirc; Th&uacute;y nổi tiếng với nhiều du kh&aacute;ch thập phương. Kh&ocirc;ng chỉ vậy, tại đ&acirc;y c&ograve;n c&oacute; m&oacute;n c&agrave; ph&ecirc; cốt dừa rất đặc trưng. Sẽ rất đ&aacute;ng tiếc nếu bạn bỏ lỡ địa điểm n&agrave;y khi du lịch Hải Ph&ograve;ng.&nbsp;</p>
+				
+				<h2>4. C&aacute;ch bảo quản ch&egrave; dừa dầm Hải Ph&ograve;ng&nbsp;</h2>
+				
+				<p>Khi l&agrave;m m&oacute;n ăn n&agrave;y tại nh&agrave;, nếu ăn kh&ocirc;ng hết, bạn ho&agrave;n to&agrave;n c&oacute; thể cho v&agrave;o b&aacute;t sứ hoặc chai thủy tinh, sau đ&oacute; cho v&agrave;o ngăn m&aacute;t tủ lạnh. Như vậy, c&oacute; thể bảo quản được tối đa 3 ng&agrave;y.&nbsp;</p>
+				
+				<p>Ri&ecirc;ng đối với những du kh&aacute;ch gh&eacute; thăm Hải Ph&ograve;ng muốn mua về l&agrave;m qu&agrave;, bạn c&oacute; thể đặt trước với c&aacute;c qu&aacute;n b&aacute;n. Th&ocirc;ng thường, họ sẽ cho v&agrave;o cốc c&oacute; m&agrave;ng co/t&uacute;i ch&acirc;n kh&ocirc;ng để bảo quản. Sau đ&oacute; tiếp tục cho v&agrave;o th&ugrave;ng c&oacute; đ&aacute; lạnh. Việc l&agrave;m n&agrave;y c&oacute; thể gi&uacute;p dừa dầm giữ vị ngon chuẩn trong khoảng 4 giờ di chuyển.&nbsp;</p>
+				
+				<p><img alt="dừa dầm" src="https://statics.vinpearl.com/dua-dam-9_1628330230.jpeg" style="width:100%" /></p>
+				
+				<p>&nbsp;</p>
+				
+				<p>B&ecirc;n cạnh m&oacute;n dừa dầm, th&agrave;nh phố hoa phượng đỏ c&ograve;n nổi tiếng với rất nhiều m&oacute;n ăn ngon v&agrave; hoạt động vui chơi giải tr&iacute; đa dạng. Đ&acirc;y thật sự l&agrave; một điểm đến hấp dẫn để bạn l&ecirc;n kế hoạch du lịch c&ugrave;ng bạn b&egrave; hay người th&acirc;n!</p>
+				
+				<p>Ngo&agrave;i ra, bạn cũng c&oacute; thể tham khảo điểm lưu tr&uacute;&nbsp;<strong>Sheraton Hai Phong</strong>&nbsp;với nhiều tiện nghi, dịch vụ cao cấp v&agrave; nằm ngay vị tr&iacute; trung t&acirc;m để c&oacute; chuyến đi trọn vẹn, thoải m&aacute;i nhất.</p>
+				
+				<p>Đến Hải Ph&ograve;ng, kh&ocirc;ng chỉ c&oacute;&nbsp;dừa dầm&nbsp;hay đặc sản ngon m&agrave; nơi đ&acirc;y c&ograve;n l&agrave; v&ugrave;ng đất của nhiều di t&iacute;ch lịch sử xinh đẹp, cổ k&iacute;nh nữa. V&igrave; thế, b&ecirc;n cạnh dự định kh&aacute;m ph&aacute; bản đồ ẩm thực Hải Ph&ograve;ng, du kh&aacute;ch đừng qu&ecirc;n kết hợp tham quan những địa điểm được gợi &yacute; trong c&aacute;c b&agrave;i viết dưới đ&acirc;y nh&eacute;.</p>
+				',
+				'author' => 'Vin Pearl',
+				'type_id' => 4,
+				'images' => 'https://statics.vinpearl.com/dua-dam-9_1628330230.jpeg',
+				'createad_at' => Carbon::now(),
+				'is_feature' => 0
+			],
+			[
+				'id' => 18,
+				'title' => 'Đắm say hương vị Bánh đa cua Hải Phòng gây bao thương nhớ',
+				'content' => '<p>Sức hấp dẫn của B&aacute;nh đa cua Hải Ph&ograve;ng khiến bao người kh&ocirc;ng thể n&agrave;o chối từ. Đ&acirc;y l&agrave; đặc sản nổi tiếng hội tụ đầy đủ sắc hương vị v&agrave; một phần văn h&oacute;a của Hải Ph&ograve;ng. Đến với nơi đ&acirc;y m&agrave; chưa một lần thưởng thức b&aacute;nh đa cua th&igrave; chẳng kh&aacute;c n&agrave;o đ&atilde; bỏ lỡ tinh hoa trong nền ẩm thực đất Cảng.<br />
+				&nbsp;</p>
+				
+				<h2>1Giới thiệu đ&ocirc;i n&eacute;t về B&aacute;nh đa cua Hải Ph&ograve;ng</h2>
+				
+				<p>Nếu như Y&ecirc;n B&aacute;i nổi tiếng với m&oacute;n b&aacute;nh chưng đem ở&nbsp;<a href="https://mia.vn/cam-nang-du-lich/canh-dong-muong-lo-ve-dep-cua-vung-dat-nghia-lo-4101" target="_blank">C&aacute;nh đồng Mường L&ograve;</a>&nbsp;th&igrave; B&aacute;nh đa cua Hải Ph&ograve;ng được người d&acirc;n nơi đ&acirc;y xem như l&agrave; linh hồn của nền ẩm thực đất Cảng. Kh&ocirc;ng chỉ c&oacute; từ l&acirc;u đời, m&oacute;n ăn n&agrave;y c&ograve;n chứa đựng một phần văn h&oacute;a đặc sắc của v&ugrave;ng đất&nbsp;<a href="https://mia.vn/cam-nang-du-lich/hai-phong" target="_blank">du lịch Hải Ph&ograve;ng</a>&nbsp;từ xưa đến nay. Trải qua biết bao nhi&ecirc;u thăng trầm, m&oacute;n b&aacute;nh đa cua vẫn gắn liền với đời sống v&agrave; tinh thần của người d&acirc;n nơi đ&acirc;y.</p>
+				
+				<p>Kh&ocirc;ng chỉ l&agrave; một m&oacute;n ăn th&ocirc;ng thường, B&aacute;nh đa cua Hải Ph&ograve;ng c&ograve;n l&agrave; một biểu tượng của v&ugrave;ng đất đầu s&oacute;ng ngọn gi&oacute;. V&agrave;o năm 2012, B&aacute;nh đa cua Hải Ph&ograve;ng c&ugrave;ng với một v&agrave;i m&oacute;n ăn nổi tiếng kh&aacute;c như phở, cơm ch&aacute;y Ninh B&igrave;nh, gỏi cuốn...được c&ocirc;ng nhận l&agrave; m&oacute;n ăn đạt kỷ lục Ch&acirc;u &Aacute; tại&nbsp;Faridabad (Ấn Độ). Đồng thời c&ograve;n vượt qua nhiều đặc sản kh&aacute;c để lọt v&agrave;o TOP15 m&oacute;n ăn đại diện cho nền ẩm thực Việt Nam đa dạng v&agrave; phong ph&uacute;. C&agrave;ng ng&agrave;y b&aacute;nh đa cua c&agrave;ng nổi tiếng v&agrave; vươn xa ra khắp thế giới.</p>
+				
+				<p>Xem th&ecirc;m:&nbsp;<a href="https://mia.vn/cam-nang-du-lich/dac-san-ca-moi-kho-kien-thuy-hai-phong-ngon-nuc-tieng-nhat-dinh-phai-thu-4353" target="_blank">Đặc sản C&aacute; m&ograve;i kho Kiến Thụy Hải Ph&ograve;ng ngon nức tiếng nhất định phải thử</a></p>
+				
+				<p><img alt="Đắm say hương vị Bánh đa cua Hải Phòng gây bao thương nhớ 2" src="https://media.mia.vn/uploads/blog-du-lich/dam-say-huong-vi-banh-da-cua-hai-phong-gay-bao-thuong-nho-01-1646991855.jpeg" style="width:100%" /></p>
+				
+				<p>B&aacute;nh đa cua Hải Ph&ograve;ng được người d&acirc;n nơi đ&acirc;y xem như l&agrave; linh hồn của nền ẩm thực đất Cảng. Ảnh: Sưu tầm</p>
+				
+				<p>Theo&nbsp;<a href="https://mia.vn/cam-nang-du-lich" target="_blank">Cẩm nang du lịch</a>&nbsp;Hải Ph&ograve;ng, nhắc đến nguồn gốc của B&aacute;nh đa cua Hải Ph&ograve;ng th&igrave; phải quay ngược thời gian trở lại thế kỷ 10. Tiền th&acirc;n của m&oacute;n b&aacute;nh đa cua ban đầu chỉ l&agrave; một loại lương kh&ocirc; đặc biệt được đặt t&ecirc;n l&agrave; b&aacute;nh đa. B&aacute;nh n&agrave;y cực kỳ dễ ăn, chỉ cần nh&uacute;ng v&agrave;o nước s&ocirc;i c&ugrave;ng ch&uacute;t muối bột l&agrave; đ&atilde; c&oacute; thể để d&agrave;nh ăn dần trong nh&agrave;.&nbsp;</p>
+				
+				<p>M&atilde;i đến thế kỷ 13, m&oacute;n ăn n&agrave;y mới được &ocirc;ng Trần Quốc Thi chế biến, th&ecirc;m thắt c&aacute;c loại gia vị để trở th&agrave;nh B&aacute;nh đa cua Hải Ph&ograve;ng ng&agrave;y nay. Ch&iacute;nh v&igrave; lẽ đ&oacute;, b&aacute;nh đa cua trong mắt người d&acirc;n Hải Ph&ograve;ng kh&ocirc;ng chỉ l&agrave; m&oacute;n ăn thỏa m&atilde;n được cả ba yếu tố hương, sắc, vị m&agrave; c&ograve;n chứa đựng hết những tinh hoa ẩm thực c&ugrave;ng tấm l&ograve;ng ch&acirc;n th&agrave;nh của người d&acirc;n đất Cảng.</p>
+				
+				<p><img alt="Đắm say hương vị Bánh đa cua Hải Phòng gây bao thương nhớ 3" src="https://media.mia.vn/uploads/blog-du-lich/dam-say-huong-vi-banh-da-cua-hai-phong-gay-bao-thuong-nho-02-1646991855.jpeg" style="width:100%" /></p>
+				
+				<p>B&aacute;nh đa cua chứa đựng hết những tinh hoa ẩm thực c&ugrave;ng tấm l&ograve;ng ch&acirc;n th&agrave;nh của người d&acirc;n đất Cảng. Ảnh: @immaiiiiii</p>
+				
+				<h2>2M&oacute;n ăn n&agrave;y c&oacute; g&igrave; đặc biệt?</h2>
+				
+				<p>2.1 Ba nguy&ecirc;n liệu ch&iacute;nh kh&ocirc;ng thể thiếu trong B&aacute;nh đa cua Hải Ph&ograve;ng</p>
+				
+				<p>B&aacute;nh đa cua cầu kỳ từ h&igrave;nh thức đến c&aacute;ch chế biến. Để nấu được m&oacute;n B&aacute;nh đa cua Hải Ph&ograve;ng đ&ograve;i hỏi nhiều loại nguy&ecirc;n liệu đa dạng. Trong đ&oacute;, ba nguy&ecirc;n liệu ch&iacute;nh nhất định kh&ocirc;ng được để thiếu khi chế biến ch&iacute;nh l&agrave; b&aacute;nh đa, cua đồng v&agrave; rau muống. Kh&ocirc;ng c&oacute; một trong ba nguy&ecirc;n liệu n&agrave;y th&igrave; m&oacute;n ăn xem như đ&atilde; mất đi một phần hương vị đặc trưng của B&aacute;nh đa cua Hải Ph&ograve;ng.</p>
+				
+				<p>Trong đ&oacute;, b&aacute;nh đa được lựa chọn phải l&agrave; loại b&aacute;nh đa đỏ nổi tiếng Dư H&agrave;ng K&ecirc;nh. Hiện chỉ c&oacute; ở quận L&ecirc; Ch&acirc;n, Hải Ph&ograve;ng l&agrave; c&oacute; b&aacute;n loại b&aacute;nh đa n&agrave;y. Để c&oacute; được sợi b&aacute;nh đ&uacute;ng chuẩn, người ta phải chọn loại gạo ngon, ng&acirc;m nước rồi đem đi xay nhuyễn đến khi bột b&aacute;nh dẻo mịn. Sau đ&oacute; phải trải qua v&ocirc; v&agrave;n c&ocirc;ng đoạn chế biến, tr&aacute;ng b&aacute;nh th&igrave; mới ra được loại b&aacute;nh đa đỏ nức tiếng đất Cảng.</p>
+				
+				<p>Sau n&agrave;y khi m&oacute;n b&aacute;nh đa cua ng&agrave;y c&agrave;ng phổ biến, người d&acirc;n nơi đ&acirc;y mới th&ecirc;m v&agrave;o nhiều nguy&ecirc;n liệu kh&aacute;c lấy từ v&ugrave;ng biển qu&ecirc; m&igrave;nh như t&ocirc;m, bề bề, ghẹ, nem cua bể...để chế biến m&oacute;n ăn. Cho d&ugrave; c&oacute; được biến tấu với nhiều c&ocirc;ng thức kh&aacute;c nhau nhưng hương vị của B&aacute;nh đa cua Hải Ph&ograve;ng vẫn chẳng thay đổi, y nguy&ecirc;n như những ng&agrave;y đầu.</p>
+				
+				<p><img alt="Đắm say hương vị Bánh đa cua Hải Phòng gây bao thương nhớ 4" src="https://media.mia.vn/uploads/blog-du-lich/dam-say-huong-vi-banh-da-cua-hai-phong-gay-bao-thuong-nho-03-1646991855.jpeg" style="width:100%" /></p>
+				
+				<p>Ba nguy&ecirc;n liệu ch&iacute;nh nhất định kh&ocirc;ng được để thiếu khi chế biến ch&iacute;nh l&agrave; b&aacute;nh đa, cua đồng v&agrave; rau muống. Ảnh: @_huyenmi</p>
+				
+				<p>2.2 M&oacute;n ăn cầu kỳ từ c&aacute;ch chế biến đến h&igrave;nh thức</p>
+				
+				<p>Cầu kỳ, tỉ mỉ trong từng c&ocirc;ng đoạn th&igrave; mới cho ra được hương vị B&aacute;nh đa cua Hải Ph&ograve;ng đ&uacute;ng chuẩn. Quan trọng nhất khi chế biến b&aacute;nh đa cua ch&iacute;nh l&agrave; nước d&ugrave;ng. Từ kh&acirc;u chuẩn bị nguy&ecirc;n liệu, canh thời gian, nhiệt độ, thứ tự cho nguy&ecirc;n liệu v&agrave;o đều phải thật chuẩn x&aacute;c. Chỉ cần sai lệch ở một kh&acirc;u l&agrave; đ&atilde; đ&aacute;nh mất đi hương vị vốn c&oacute; của b&aacute;nh đa cua. Ch&iacute;nh v&igrave; thế người chế biến B&aacute;nh đa cua Hải Ph&ograve;ng phải l&agrave; người c&oacute; tay nghề, kỹ thuật c&ugrave;ng kinh nghiệm l&acirc;u năm.</p>
+				
+				<p>Sau khi chế biến xong, sắc m&agrave;u trong nồi nước d&ugrave;ng b&aacute;nh đa cua phải thật bắt mắt. N&agrave;o l&agrave; m&agrave;u v&agrave;ng s&oacute;ng s&aacute;nh của gạch cua h&ograve;a lẫn c&ugrave;ng nước d&ugrave;ng, m&agrave;u đo đỏ của thịt t&ocirc;m, cua đồng hay m&agrave;u xanh mướt của rau muống...Tất cả nguy&ecirc;n liệu c&ugrave;ng quyện h&ograve;a tạo n&ecirc;n một sức h&uacute;t kh&oacute; cưỡng khiến bất k&igrave; ai cũng phải đổ gục ngay từ lần đầu ti&ecirc;n.</p>
+				
+				<p>Thoạt nh&igrave;n, nhiều người thường nhầm lẫn giữa b&uacute;n ri&ecirc;u v&agrave; B&aacute;nh đa cua Hải Ph&ograve;ng. Tuy nhi&ecirc;n cả hai m&oacute;n ăn n&agrave;y đều c&oacute; sự kh&aacute;c biệt nhau v&ocirc; c&ugrave;ng đặc trưng ở m&agrave;u sắc lẫn hương vị. Nếu quan s&aacute;t kĩ, bạn sẽ dễ d&agrave;ng nhận thấy được m&agrave;u nước d&ugrave;ng b&aacute;nh đa cua đục hơn của b&uacute;n ri&ecirc;u. Khi ăn v&agrave;o th&igrave; c&oacute; vị ngọt thanh, đậm m&ugrave;i thơm của cua đồng.</p>
+				
+				<p><img alt="Đắm say hương vị Bánh đa cua Hải Phòng gây bao thương nhớ 5" src="https://media.mia.vn/uploads/blog-du-lich/dam-say-huong-vi-banh-da-cua-hai-phong-gay-bao-thuong-nho-05-1646991855.jpeg" style="width:100%" /></p>
+				
+				<p>Cầu kỳ, tỉ mỉ trong từng c&ocirc;ng đoạn th&igrave; mới cho ra được hương vị B&aacute;nh đa cua Hải Ph&ograve;ng đ&uacute;ng chuẩn. Ảnh: thethaovanhoa.vn</p>
+				
+				<p>2.3 M&oacute;n ăn gắn liền với đời sống văn h&oacute;a v&agrave; con người đất Cảng</p>
+				
+				<p>C&oacute; thể n&oacute;i rằng B&aacute;nh đa cua Hải Ph&ograve;ng ch&iacute;nh l&agrave; tinh hoa của nền ẩm thực đất Cảng. Tuy rằng b&aacute;nh đa cua ng&agrave;y nay v&ocirc; c&ugrave;ng phổ biến, c&oacute; thể dễ d&agrave;ng t&igrave;m thấy ở nhiều v&ugrave;ng miền kh&aacute;c nhau nhưng chỉ c&oacute; m&oacute;n b&aacute;nh đa cua chế biến tại đất Hải Ph&ograve;ng mới thực sự đem lại trải nghiệm ẩm thực trọn vẹn. Thưởng thức một t&ocirc; b&aacute;nh đa cua, mọi người kh&ocirc;ng chỉ được nếm thử một m&oacute;n ăn trứ danh Hải Ph&ograve;ng m&agrave; c&ograve;n được thưởng thức trọn vẹn hương vị của v&ugrave;ng biển qu&ecirc; hương.</p>
+				
+				<p>Người d&acirc;n Hải Ph&ograve;ng c&oacute; thể ăn b&aacute;nh đa cua quanh năm m&agrave; kh&ocirc;ng hề ng&aacute;n. Với họ, B&aacute;nh đa cua Hải Ph&ograve;ng như một n&eacute;t đẹp trong ẩm thực đất Cảng, gắn liền với tuổi thơ v&agrave; đời sống văn h&oacute;a của người d&acirc;n nơi đ&acirc;y. D&ugrave; c&oacute; đi xa đến mấy hay đ&atilde; l&acirc;u kh&ocirc;ng được thưởng thức một t&ocirc; b&aacute;nh đa cua đ&uacute;ng chuẩn Hải Ph&ograve;ng th&igrave; chỉ cần quay về, gọi một t&ocirc; b&aacute;nh đa cua, gắp thử một đũa b&aacute;nh n&oacute;ng hổi, s&aacute;nh mịn cho v&agrave;o miệng l&agrave; biết bao k&yacute; ức xưa đ&atilde; quay về. Hương vị qu&ecirc; hương cứ thế len lỏi v&agrave;o trong v&agrave; đ&aacute;nh thức tr&aacute;i tim của những người con xa xứ.</p>
+				
+				<p><img alt="Đắm say hương vị Bánh đa cua Hải Phòng gây bao thương nhớ 6" src="https://media.mia.vn/uploads/blog-du-lich/dam-say-huong-vi-banh-da-cua-hai-phong-gay-bao-thuong-nho-06-1646991855.jpeg" style="width:100%" /></p>
+				
+				<p>B&aacute;nh đa cua Hải Ph&ograve;ng như một n&eacute;t đẹp trong ẩm thực đất Cảng, gắn liền với tuổi thơ v&agrave; đời sống văn h&oacute;a của người d&acirc;n. Ảnh: @dingolong</p>
+				
+				<h2>3Thưởng thức b&aacute;nh đa cua sao cho đ&uacute;ng chuẩn?</h2>
+				
+				<p>Để thưởng thức được m&oacute;n đặc sản n&agrave;y, bạn c&oacute; thể lưu lại địa chỉ&nbsp;<a href="https://mia.vn/cam-nang-du-lich/top-quan-banh-da-cua-hai-phong-noi-tieng-khap-dat-cang-4361" target="_blank">Top qu&aacute;n b&aacute;nh đa cua Hải Ph&ograve;ng</a>&nbsp;ngon nức tiếng. Điều đặc biệt m&agrave; chỉ c&oacute; Hải Ph&ograve;ng mới đem lại được cho bạn ch&iacute;nh l&agrave; b&aacute;nh đa được lựa chọn chế biến l&agrave; b&aacute;nh đa tươi, mềm mịn, dẻo dai, kh&ocirc;ng bị bở hay nhũn ra sau khi nấu c&ugrave;ng nước d&ugrave;ng. C&ograve;n ở những nơi kh&aacute;c, b&aacute;nh đa được d&ugrave;ng thường l&agrave; loại b&aacute;nh đa kh&ocirc; bảo quản được l&acirc;u, hương vị đặc trưng của b&aacute;nh đa hầu như đ&atilde; mất dần theo thời gian.</p>
+				
+				<p>Một b&aacute;t B&aacute;nh đa cua Hải Ph&ograve;ng đ&uacute;ng chuẩn phải c&oacute; đủ những sắc m&agrave;u bắt mắt, sợi b&aacute;nh đa to m&agrave;u n&acirc;u đất, s&aacute;nh mịn. Khi thưởng thức sẽ cảm nhận ch&acirc;n thật hương thơm lừng từ củ h&agrave;nh, vị b&eacute;o ngậy nhưng kh&ocirc;ng ng&aacute;n của gạch cua. Sự kết hợp h&agrave;i h&ograve;a giữa c&aacute;c loại gia vị c&agrave;ng khiến cho người thưởng thức kh&ocirc;ng kiềm l&ograve;ng trước sức h&uacute;t của b&aacute;nh đa cua.</p>
+				
+				<p><img alt="Đắm say hương vị Bánh đa cua Hải Phòng gây bao thương nhớ 7" src="https://media.mia.vn/uploads/blog-du-lich/dam-say-huong-vi-banh-da-cua-hai-phong-gay-bao-thuong-nho-07-1646991855.jpeg" style="width:100%" /></p>
+				
+				<p>Một b&aacute;t B&aacute;nh đa cua Hải Ph&ograve;ng đ&uacute;ng chuẩn phải c&oacute; đủ những sắc m&agrave;u bắt mắt, sợi b&aacute;nh đa to m&agrave;u n&acirc;u đất, s&aacute;nh mịn. Ảnh: @trangbui</p>
+				
+				<p>B&ecirc;n cạnh B&aacute;nh đa cua Hải Ph&ograve;ng,&nbsp;<a href="https://mia.vn/cam-nang-du-lich/nem-cua-be-hai-phong-dam-say-truoc-dac-san-tru-danh-dat-cang-4354" target="_blank">Nem cua bể Hải Ph&ograve;ng</a>&nbsp;cũng l&agrave; một m&oacute;n ăn mang hương vị của v&ugrave;ng biển nơi đ&acirc;y. Đến với đất Cảng đầy nắng v&agrave; gi&oacute;, thưởng thức một t&ocirc; b&aacute;nh đa cua n&oacute;ng hổi, thơm ngon nghi ng&uacute;t kh&oacute;i c&ugrave;ng với miếng nem cua bể v&agrave;ng ruộm, đầy ắp nh&acirc;n thịt b&ecirc;n trong chắc chắn sẽ khiến vị gi&aacute;c của bạn b&ugrave;ng nổ. Đừng để bỏ lỡ những m&oacute;n ngon nổi tiếng đất Cảng trở th&agrave;nh niềm nuối tiếc của bạn sau chuyến h&agrave;nh tr&igrave;nh. X&aacute;ch balo l&ecirc;n v&agrave; đến đ&acirc;y thưởng thức ngay th&ocirc;i n&agrave;o!</p>
+				',
+				'author' => 'Tạ Mỹ Dung',
+				'type_id' => 4,
+				'images' => 'https://media.mia.vn/uploads/blog-du-lich/dam-say-huong-vi-banh-da-cua-hai-phong-gay-bao-thuong-nho-06-1646991855.jpeg',
+				'createad_at' => Carbon::now(),
+				'is_feature' => 0
+			],
+			[
+				'id' => 19,
+				'title' => 'Bánh mì que Hải Phòng - món ăn vặt đường phố GÂY THƯƠNG NHỚ',
+				'content' => '<p>Chiếc b&aacute;nh m&igrave; que Hải Ph&ograve;ng d&agrave;i chừng một gang tay, b&eacute; x&iacute;u xiu, nh&acirc;n chỉ c&oacute; duy nhất pate nhưng lại khiến bất cứ ai từng nếm thử đều m&ecirc; mẩn.</p>
+
+				<p><img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong-2_1628412311.jpg" style="width: 100%" /><em>B&aacute;nh m&igrave; cay Hải Ph&ograve;ng ăn l&agrave; &ldquo;ghiền&rdquo; (Ảnh: sưu tầm)</em></p>
+				
+				<p>Nhắc đến đất cảng, nhiều người nghĩ ngay đến những m&oacute;n ăn mang hương vị miền biển như nem cua bể, b&aacute;nh đa cua.... m&agrave; qu&ecirc;n mất rằng,&nbsp;<strong>b&aacute;nh m&igrave; que Hải Ph&ograve;ng</strong>&nbsp;cũng &ldquo;xuất sắc&rdquo; kh&ocirc;ng k&eacute;m. C&ugrave;ng kh&aacute;m ph&aacute; xem m&oacute;n ăn n&agrave;y c&oacute; điều g&igrave; đặc biệt nh&eacute;!</p>
+				
+				<h2>1. B&aacute;nh m&igrave; que Hải Ph&ograve;ng - thức qu&agrave; b&igrave;nh d&acirc;n nức l&ograve;ng thực kh&aacute;ch</h2>
+				
+				<p>Hải Ph&ograve;ng - th&agrave;nh phố hoa phượng đỏ đ&acirc;u chỉ nổi tiếng với biển Đồ Sơn, những&nbsp;<strong><a href="https://vinpearl.com/vi/food-tour-hai-phong-1-ngay-nen-an-gi-o-quan-nao">food tour Hải Ph&ograve;ng</a>&nbsp;</strong>mới thực sự l&agrave; thứ dẫn lối c&aacute;c t&acirc;m hồn ăn uống t&igrave;m về nơi đ&acirc;y! Đến Hải Ph&ograve;ng m&agrave; kh&ocirc;ng l&ecirc; la h&agrave;ng qu&aacute;n, ăn đến &ldquo;ch&aacute;y t&uacute;i&rdquo; th&igrave; quả l&agrave; c&oacute; lỗi với bản th&acirc;n. N&agrave;o l&agrave; b&aacute;nh đa cua, dừa non, dừa dầm l&aacute; dứa, cafe cốt dừa,... mới chỉ điểm danh &ldquo;sương sương&rdquo; th&ocirc;i cũng đủ khiến cơn &ldquo;th&ograve;m th&egrave;m&rdquo; trỗi dậy.&nbsp;</p>
+				
+				<p>Nhưng trong list n&agrave;y vẫn thiếu một m&oacute;n m&agrave; n&oacute;i ra ai cũng phải gật g&ugrave; t&acirc;m đắc&nbsp; &ldquo;&Agrave;, đ&uacute;ng rồi, m&oacute;n đ&oacute; mới đ&iacute;ch thị l&agrave; đặc sản Hải Ph&ograve;ng&rdquo;. M&oacute;n ăn ấy mang t&ecirc;n b&aacute;nh m&igrave; que.</p>
+				
+				<p><img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong-3_1628412405.jpg" style="width: 100%" /><em>Những qu&aacute;n b&aacute;nh m&igrave; que Hải Ph&ograve;ng ở H&agrave; Nội c&oacute; v&ocirc; số kể nhưng phải tại đất cảng, hương vị m&oacute;n ăn n&agrave;y mới đ&uacute;ng điệu (Ảnh: Ealwpeach)</em></p>
+				
+				<p>Phong tr&agrave;o b&aacute;nh m&igrave; que cay ở Hải Ph&ograve;ng nghe n&oacute;i c&oacute; nguồn gốc từ ng&otilde; Kh&aacute;nh Lạp, gần H&agrave;ng K&ecirc;nh. Từ một m&oacute;n ăn d&acirc;n d&atilde;, giờ đ&acirc;y b&aacute;nh m&igrave; que đ&atilde; trở th&agrave;nh &ldquo;ng&ocirc;i sao&rdquo; gi&uacute;p người d&acirc;n đất cảng &ldquo;nở m&agrave;y nở mặt&rdquo; với c&aacute;c du kh&aacute;ch thập phương.&nbsp;</p>
+				
+				<p>Kh&ocirc;ng &ldquo;x&ocirc;i thịt&rdquo; như b&aacute;nh m&igrave; d&acirc;n tổ ngo&agrave;i H&agrave; Nội, b&aacute;nh m&igrave; que Hải Ph&ograve;ng c&oacute; phần nh&igrave;n kh&aacute; đơn giản. M&oacute;n ăn đặc sản Hải Ph&ograve;ng chỉ to cỡ một đốt rưỡi tay, d&agrave;i chừng một gang tay, nh&acirc;n b&ecirc;n trong chỉ c&oacute; duy nhất pate. Kh&ocirc;ng gi&ograve;, kh&ocirc;ng chả, chỉ đơn giản vậy th&ocirc;i nhưng b&aacute;nh m&igrave; cay Hải Ph&ograve;ng vẫn khiến thực kh&aacute;ch m&ecirc; mẩn.</p>
+				
+				<p>Nhưng đ&oacute; chỉ l&agrave; vẻ ngo&agrave;i m&agrave; th&ocirc;i, thứ b&ecirc;n trong của m&oacute;n ăn n&agrave;y mới ch&iacute;nh l&agrave; &ldquo;linh hồn&rdquo; đ&aacute;nh gục mọi tr&aacute;i tim của c&aacute;c t&iacute;n đồ m&ecirc; ẩm thực. Hầu hết c&aacute;c qu&aacute;n b&aacute;nh m&igrave; cay nổi tiếng ở Hải Ph&ograve;ng đều tự chế biến pate. Pate được l&agrave;m từ thịt nạc, gan lợn, mỡ phần v&agrave; hạt ti&ecirc;u, c&oacute; vị đậm đ&agrave;, độ b&eacute;o vừa phải.</p>
+				
+				<p><img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong-4_1628412440.jpg" style="width: 100%" /><em>Nh&acirc;n pate ch&iacute;nh l&agrave; linh hồn của m&oacute;n ăn (Ảnh: Sưu tầm)</em></p>
+				
+				<p>B&ecirc;n cạnh đ&oacute;, g&oacute;p phần tạo n&ecirc;n sự đặc biệt của loại b&aacute;nh n&agrave;y ch&iacute;nh l&agrave; nước chấm ăn k&egrave;m. Người Hải Ph&ograve;ng gọi n&oacute; với c&aacute;i t&ecirc;n ch&iacute; chương. Đ&acirc;y l&agrave; một loại nước chấm được l&agrave;m từ hỗn hợp ớt, tỏi, c&agrave; chua v&agrave; muối. Trải qua qu&aacute; tr&igrave;nh l&ecirc;n men, ch&iacute; chương cho ra m&agrave;u đỏ đẹp mắt, vị cay nồng n&agrave;n, chấm c&ugrave;ng b&aacute;nh m&igrave; pate &ldquo;đưa miệng&rdquo; thực sự.&nbsp;</p>
+				
+				<p>C&oacute; lẽ ăn một chiếc b&aacute;nh m&igrave; Hải Ph&ograve;ng l&agrave; kh&ocirc;ng đủ, khi đ&atilde; ăn một miếng rồi, bạn sẽ muốn ăn th&ecirc;m miếng thứ 2 v&agrave; nhiều hơn nữa. Thậm ch&iacute; c&oacute; thực kh&aacute;ch &ldquo;cuồng&rdquo; những chiếc xe b&aacute;nh m&igrave; que cay ở Hải Ph&ograve;ng tới nỗi mỗi lần ăn cả chục c&aacute;i chưa ch&aacute;n. Thế mới thấy sức &ldquo;s&aacute;t thương&rdquo; v&iacute; tiền của m&oacute;n ăn đất cảng n&agrave;y thực sự rất cao!</p>
+				
+				<h2>2. Hướng dẫn c&aacute;ch l&agrave;m b&aacute;nh m&igrave; que Hải Ph&ograve;ng đơn giản ngon b&aacute; ch&aacute;y</h2>
+				
+				<p>Tự l&agrave;m&nbsp;<em>b&aacute;nh m&igrave; que Hải Ph&ograve;ng</em>&nbsp;tại nh&agrave; l&agrave; một trải nghiệm thực sự th&uacute; vị. Dưới đ&acirc;y l&agrave; hướng dẫn chi tiết c&aacute;c bước để cho ra l&ograve; m&oacute;n b&aacute;nh m&igrave; cay ch&iacute;nh hiệu Hải Ph&ograve;ng:</p>
+				
+				<h3>2.1. Chuẩn bị nguy&ecirc;n liệu</h3>
+				
+				<p><strong>Phần nh&acirc;n pate:</strong></p>
+				
+				<ul>
+					<li>200g thịt nạc vai</li>
+					<li>400g gan lợn</li>
+					<li>200g mỡ phần</li>
+					<li>1 t&uacute;i sữa tươi kh&ocirc;ng đường</li>
+					<li>1 củ tỏi</li>
+					<li>50g h&agrave;nh t&iacute;m</li>
+					<li>1 củ tỏi</li>
+					<li>1 ổ b&aacute;nh m&igrave;</li>
+					<li>100g bơ</li>
+					<li>C&aacute;c gia vị như: đường, mắm, ti&ecirc;u, muối, hạt n&ecirc;m...</li>
+				</ul>
+				
+				<p><strong>Phần vỏ b&aacute;nh:</strong></p>
+				
+				<ul>
+					<li>300g bột m&igrave;</li>
+					<li>3 - 5g bột nở</li>
+				</ul>
+				
+				<p><img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong-5_1628412486.jpg" style="width: 100%" /><em>Chuẩn bị nguy&ecirc;n liệu l&agrave;m vỏ b&aacute;nh (Ảnh: Sưu tầm)</em></p>
+				
+				<p>Nếu c&ocirc;ng đoạn l&agrave;m b&aacute;nh kh&ocirc;ng phải l&agrave; sở trường của bạn th&igrave; c&oacute; thể mua sẵn b&aacute;nh m&igrave; tại c&aacute;c cửa h&agrave;ng tiện lợi.</p>
+				
+				<p><strong>Phần nước sốt:</strong></p>
+				
+				<ul>
+					<li>1 - 2 quả c&agrave; chua</li>
+					<li>0.5kg ớt chỉ thi&ecirc;n</li>
+					<li>20ml rượu trắng</li>
+					<li>30ml nước lọc</li>
+					<li>1 ch&uacute;t muối nhỏ</li>
+					<li>3 củ tỏi</li>
+					<li>20ml giấm</li>
+				</ul>
+				
+				<h3>2.2. C&ocirc;ng thức l&agrave;m b&aacute;nh m&igrave; que Hải ph&ograve;ng</h3>
+				
+				<p>Sau khi ho&agrave;n tất bước chuẩn bị nguy&ecirc;n liệu, c&ograve;n chần chờ g&igrave; m&agrave; kh&ocirc;ng bắt tay ngay v&agrave;o sơ chế v&agrave; chế biến th&ocirc;i!</p>
+				
+				<p><strong>C&aacute;ch l&agrave;m vỏ b&aacute;nh m&igrave; que gi&ograve;n:</strong></p>
+				
+				<ul>
+					<li>Cho bột m&igrave;, muối, men nở v&agrave; 200ml nước v&agrave;o một b&aacute;t lớn. Nh&agrave;o thật kỹ hỗn hợp đến khi bột dẻo v&agrave; mịn lại</li>
+					<li>Để bột nghỉ trong v&ograve;ng 40 ph&uacute;t</li>
+					<li>Sau khi bột nở l&ecirc;n gấp đ&ocirc;i, bạn đem bột chia th&agrave;nh c&aacute;c phần nhỏ, tiếp tục ủ trong v&ograve;ng 20 ph&uacute;t</li>
+					<li>Rắc ch&uacute;t bột l&ecirc;n thớt để nh&agrave;o bột kh&ocirc;ng bị d&iacute;nh</li>
+				</ul>
+				
+				<p><img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong-3-_1628419249.jpg" style="width: 100%" /><em>C&aacute;ch l&agrave;m vỏ b&aacute;nh (Ảnh: Sưu tầm)</em></p>
+				
+				<ul>
+					<li>Nặn từng phần bột đ&atilde; chia th&agrave;nh h&igrave;nh que</li>
+					<li>L&agrave;m n&oacute;ng l&ograve; nướng</li>
+					<li>Xếp b&aacute;nh m&igrave; v&agrave;o khay rồi đặt v&agrave;o trong l&ograve; nướng (kh&ocirc;ng n&ecirc;n xếp b&aacute;nh qu&aacute; gần v&igrave; bột sẽ tiếp tục nở khi ch&iacute;n)</li>
+					<li>Đặt nhiệt độ l&ograve; nướng ở ngưỡng 170 độ C trong 10 ph&uacute;t đầu</li>
+					<li>Khi b&aacute;nh v&agrave;ng đều th&igrave; nhanh tay lấy ra khỏi l&ograve;</li>
+				</ul>
+				
+				<p><strong>C&aacute;ch l&agrave;m nh&acirc;n pate b&aacute;nh m&igrave; cay Hải Ph&ograve;ng:</strong></p>
+				
+				<ul>
+					<li>Sơ chế phần thịt nạc, mỡ phần, ri&ecirc;ng gan heo cần rửa sạch thật kỹ với muối, sau đ&oacute; ng&acirc;m với sữa tươi kh&ocirc;ng đường để loại bỏ m&ugrave;i tanh</li>
+					<li>Xay hỗn hợp thịt nạc, mỡ phần, gan heo với nhau, sau đ&oacute; th&ecirc;m c&aacute;c gia vị như mắm, đường, ti&ecirc;u, một x&iacute;u muối sao cho vừa ăn</li>
+					<li>Khi tất cả c&aacute;c nguy&ecirc;n liệu đ&atilde; được h&ograve;a quyện, bạn đem đi hấp c&aacute;ch thủy l&agrave; xong</li>
+				</ul>
+				
+				<p><strong>C&aacute;ch l&agrave;m nước sốt b&aacute;nh m&igrave; cay Hải Ph&ograve;ng:</strong></p>
+				
+				<ul>
+					<li>Tỏi b&oacute;c vỏ, rửa sạch, đem xay nhuyễn c&ugrave;ng với giấm v&agrave; rượu</li>
+					<li>Rửa sạch c&agrave; chua với ớt chu&ocirc;ng, sau đ&oacute; đem hấp c&aacute;ch thủy trong v&ograve;ng 20 ph&uacute;t. Th&ecirc;m ch&uacute;t x&iacute;u muối v&agrave;o hỗn hợp n&agrave;y rồi đem xay nhuyễn</li>
+					<li>Trộn phần tỏi với phần c&agrave; chua, ớt xay nhuyễn, sau đ&oacute; đem chưng đến khi hỗn hợp sền sệt lại l&agrave; được</li>
+				</ul>
+				
+				<p><img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong-7_1628412578.jpg" style="width: 100%" /><em>Tương ớt chấm b&aacute;nh m&igrave; que được l&agrave;m từ ớt chỉ thi&ecirc;n, c&agrave; chua v&agrave; tỏi (Ảnh: sưu tầm)</em></p>
+				
+				<h3>2.3. Ho&agrave;n thiện v&agrave; thưởng thức</h3>
+				
+				<p>D&ugrave;ng dao hoặc k&eacute;o rạch một đường giữa b&aacute;nh m&igrave;, sau đ&oacute; quết th&ecirc;m pate t&ugrave;y &yacute;. Ngo&agrave;i ra, bạn cũng c&oacute; thể ăn c&ugrave;ng với dưa chuột v&agrave; một số loại rau thơm. Khi ăn, nhớ chấm đẫm nước chấm tương ớt cay cay, chắc chắn cả nh&agrave; ai nấy cũng đều tấm tắc khen ngon!</p>
+				
+				<p><img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong-8_1628412600.jpg" style="width: 100%" /><em>Vậy l&agrave; bạn đ&atilde; ho&agrave;n th&agrave;nh được chiếc b&aacute;nh m&igrave; cay xinh xắn rồi, b&acirc;y giờ h&atilde;y thưởng thức th&ocirc;i! (Ảnh: Sưu tầm)</em></p>
+				
+				<p>&nbsp;</p>
+				
+				<h2>3. Những lưu &yacute; khi l&agrave;m m&oacute;n b&aacute;nh m&igrave; que Hải Ph&ograve;ng</h2>
+				
+				<p>Để th&agrave;nh phẩm vừa ngon mắt, vừa ngon miệng, bạn cần lưu &yacute; những điều sau:</p>
+				
+				<ul>
+					<li>Trong bước l&agrave;m vỏ b&aacute;nh, bạn kh&ocirc;ng n&ecirc;n trộn hết phần bột với nước để tr&aacute;nh bột bị nh&atilde;o v&agrave; v&oacute;n cục. Thay v&agrave;o đ&oacute;, bạn n&ecirc;n cho từ từ 2 nguy&ecirc;n liệu để dễ điều chỉnh</li>
+					<li>Sau khi ủ b&aacute;nh, bạn cần đập bột thật mạnh để bọt kh&iacute; b&ecirc;n trong b&aacute;nh tho&aacute;t ra. C&oacute; như vậy, b&aacute;nh m&igrave; khi nướng xong sẽ kh&ocirc;ng bị rỗ</li>
+					<li>C&aacute;ch bảo quản b&aacute;nh m&igrave; que Hải Ph&ograve;ng đ&atilde; quết pate: Bạn n&ecirc;n cất trong tủ đ&aacute;, khi ăn cho v&agrave;o l&ograve; vi s&oacute;ng quay 5 ph&uacute;t l&agrave; c&oacute; thể d&ugrave;ng được ngay</li>
+					<li>
+					<h2>4. Điểm danh những qu&aacute;n b&aacute;nh m&igrave; que Hải Ph&ograve;ng &quot;ăn l&agrave; ghiền&quot;</h2>
+				
+					<p>B&aacute;nh m&igrave; cay ở Hải Ph&ograve;ng đ&atilde; ăn l&agrave; nhớ m&atilde;i. Bởi vậy, để thưởng thức hương vị quen thuộc n&agrave;y, h&atilde;y rủ bạn b&egrave; l&agrave;m chuyến&nbsp;<strong><a href="https://vinpearl.com/vi/review-tron-bo-bi-kip-du-lich-hai-phong-tu-tuc">du lịch Hải Ph&ograve;ng</a></strong>&nbsp;v&agrave;o một ng&agrave;y gần nhất nh&eacute;! V&agrave; đừng qu&ecirc;n gh&eacute; c&aacute;c qu&aacute;n b&aacute;nh m&igrave; que Hải Ph&ograve;ng nổi tiếng vừa rẻ vừa ngon dưới đ&acirc;y nh&eacute;!</p>
+					<img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong-9_1628412654.jpg" style="width: 100%" /><em>B&aacute;nh m&igrave; cay Hải Ph&ograve;ng ở đ&acirc;u ngon? (Ảnh: Sưu tầm)</em>
+				
+					<h3>4.1. B&aacute;nh m&igrave; que 28 Đinh Ti&ecirc;n Ho&agrave;ng</h3>
+					</li>
+					<li><strong>Địa chỉ:</strong>&nbsp;28 Đinh Ti&ecirc;n Ho&agrave;ng, Hồng B&agrave;ng, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa tham khảo:&nbsp;</strong>05:00 &ndash; 09:00</li>
+					<li><strong>Gi&aacute; tham khảo:&nbsp;</strong>khoảng 20.000 VNĐ/10 c&aacute;i</li>
+					<li>
+					<h3>4.2. Qu&aacute;n b&aacute;nh m&igrave; que B&agrave; Gi&agrave; Hải Ph&ograve;ng</h3>
+					</li>
+					<li><strong>Địa chỉ:&nbsp;</strong>57 L&ecirc; Lợi, Ng&ocirc; Quyền, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa tham khảo:&nbsp;</strong>07:00 &ndash; 22:30</li>
+					<li><strong>Gi&aacute; tham khảo:&nbsp;</strong>2.000 &ndash; 10.000 VNĐ/c&aacute;i</li>
+					<li><img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong-10_1628412711.jpg" style="width: 100%" /><em>Qu&aacute;n b&aacute;nh m&igrave; cay B&agrave; Gi&agrave; (Ảnh: sưu tầm)</em>
+					<h3>4.3. B&aacute;nh m&igrave; que Hai B&agrave; Trưng</h3>
+					</li>
+					<li><strong>Địa chỉ:</strong>&nbsp;19 Hai B&agrave; Trưng, L&ecirc; Ch&acirc;n, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa tham khảo:&nbsp;</strong>10:00 &ndash; 23:00</li>
+					<li><strong>Gi&aacute; tham khảo:</strong>&nbsp;2.000 &ndash; 20.000 VNĐ/c&aacute;i</li>
+					<li>
+					<h3>4.4. Tiệm b&aacute;nh m&igrave; que &Ocirc;ng Cu&ocirc;ng</h3>
+					</li>
+					<li><strong>Địa chỉ:&nbsp;</strong>184 H&agrave;ng K&ecirc;nh, L&ecirc; Ch&acirc;n, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa tham khảo:&nbsp;</strong>07:00 &ndash; 22:00</li>
+					<li><strong>Gi&aacute; tham khảo:&nbsp;</strong>15.000 &ndash; 22.000 VNĐ/10 c&aacute;i</li>
+					<li>
+					<h3>4.5. Tiệm b&aacute;nh m&igrave; que Kh&aacute;nh Lạp</h3>
+					</li>
+					<li><strong>Địa chỉ:&nbsp;</strong>181 H&agrave;ng K&ecirc;nh, L&ecirc; Ch&acirc;n, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa tham khảo:&nbsp;</strong>16:00 &ndash; 23:00</li>
+					<li><strong>Gi&aacute; tham khảo:</strong>&nbsp;2.000 &ndash; 15.000 VNĐ/c&aacute;i</li>
+					<li><img alt="bánh mì que Hải Phòng" src="https://statics.vinpearl.com/banh-mi-que-hai-phong--_1628419405.jpg" style="width: 100%" /><em>Tiệm b&aacute;nh m&igrave; que Kh&aacute;nh Lạp (Ảnh: Sưu tầm)</em>
+					<h3>4.6. B&aacute;nh m&igrave; que chợ Cột Đ&egrave;n</h3>
+					</li>
+					<li><strong>Địa chỉ:&nbsp;</strong>180 Nguyễn C&ocirc;ng Trứ, L&ecirc; Ch&acirc;n, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa tham khảo:&nbsp;</strong>19:30 &ndash; 3:00</li>
+					<li><strong>Gi&aacute; tham khảo:&nbsp;</strong>khoảng 25.000 VNĐ/10 c&aacute;i</li>
+					<li>
+					<h3>4.7. B&aacute;nh m&igrave; que Tứ Hải</h3>
+					</li>
+					<li><strong>Địa chỉ:</strong>&nbsp;98 T&ocirc;n Đức Thắng, L&ecirc; Ch&acirc;n, Hải Ph&ograve;ng</li>
+					<li><strong>Gi&aacute; tham khảo:&nbsp;</strong>5.000 &ndash; 10.000 VNĐ/c&aacute;i</li>
+				</ul>
+				',
+				'author' => 'Vin Pearl',
+				'type_id' => 4,
+				'images' => 'https://statics.vinpearl.com/banh-mi-que-hai-phong--_1628419405.jpg',
+				'createad_at' => Carbon::now(),
+				'is_feature' => 0
+			],
+			[
+				'id' => 20,
+				'title' => 'Bún cá Hải Phòng - Đặc sản nổi tiếng nhớ mãi không quên',
+				'content' => '<p>B&uacute;n c&aacute; Hải Ph&ograve;ng l&agrave; một trong số &iacute;t những m&oacute;n ăn c&oacute; thể kết hợp h&agrave;i h&ograve;a hương vị của đồng nội v&agrave; biển cả. Bởi vậy, m&oacute;n b&uacute;n đại diện cho ẩm thực đất cảng n&agrave;y đ&atilde; khiến bao du kh&aacute;ch nhớ m&atilde;i kh&ocirc;ng qu&ecirc;n.<img alt="bún cá Hải Phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-1_1628520788.jpg" style="width: 100%" /><em>B&uacute;n c&aacute; Hải Ph&ograve;ng - m&oacute;n ăn l&agrave;m xi&ecirc;u l&ograve;ng bao thực kh&aacute;ch (Ảnh: Sưu tầm)</em></p>
+
+				<p>M&oacute;n&nbsp;<strong>b&uacute;n c&aacute; Hải Ph&ograve;ng</strong>&nbsp;nổi tiếng kh&ocirc;ng k&eacute;m những đặc sản kh&aacute;c của đất cảng như b&aacute;nh đa cua, b&aacute;nh m&igrave; cay, nem cua bể,... Kh&aacute;m ph&aacute; ngay m&oacute;n ăn trứ danh đất cảng n&agrave;y c&oacute; g&igrave; đặc biệt nh&eacute;!</p>
+				
+				<h2>1. B&uacute;n c&aacute; Hải Ph&ograve;ng - M&oacute;n ăn ngon g&acirc;y thương nhớ cho bao thực kh&aacute;ch</h2>
+				
+				<p>N&oacute;i về m&oacute;n b&uacute;n, nếu H&agrave; Nội nổi tiếng với b&uacute;n chả v&agrave; b&uacute;n đậu mắm t&ocirc;m, Huế được biết đến với đặc sản b&uacute;n b&ograve; th&igrave; Hải Ph&ograve;ng c&oacute; m&oacute;n b&uacute;n c&aacute; cay m&agrave; ai đ&atilde; ăn một lần đều nhớ m&atilde;i. M&oacute;n b&uacute;n c&aacute; ở Hải Ph&ograve;ng c&oacute; hương vị h&ograve;a quyện ho&agrave;n hảo của c&aacute;c nguy&ecirc;n liệu đồng qu&ecirc; v&agrave; biển cả. Điều đ&oacute; đ&atilde; khiến m&oacute;n ăn n&agrave;y trở th&agrave;nh đặc sản nổi tiếng của th&agrave;nh phố hoa phượng đỏ.&nbsp;</p>
+				
+				<p>Sự hấp dẫn của b&uacute;n c&aacute; cay đối với du kh&aacute;ch&nbsp;<strong><a href="https://vinpearl.com/vi/review-tron-bo-bi-kip-du-lich-hai-phong-tu-tuc">du lịch Hải Ph&ograve;ng</a></strong>&nbsp;đến từ việc tuyển chọn nguy&ecirc;n liệu khắt khe: c&aacute; thu l&agrave;m chả vi&ecirc;n, c&aacute; trắm đồng chi&ecirc;n gi&ograve;n... B&ecirc;n cạnh đ&oacute;, m&oacute;n ăn n&agrave;y c&ograve;n thu h&uacute;t thực kh&aacute;ch bởi hương vị nước d&ugrave;ng ngọt thanh, đậm đ&agrave; được ninh nhừ từ đầu c&aacute;, xương c&aacute; v&agrave; xương heo.</p>
+				
+				<p><img alt="bún cá Hải Phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-2_1628520868.jpg" style="width: 100%" /><em>Hương vị đậm đ&agrave;, ngọt thanh của m&oacute;n b&uacute;n c&aacute; đ&atilde; &ldquo;n&iacute;u ch&acirc;n&rdquo; bao thực kh&aacute;ch (Ảnh: Sưu tầm)</em></p>
+				
+				<p>Đặc biệt,&nbsp;<em>b&uacute;n c&aacute; Hải Ph&ograve;ng</em>&nbsp;c&ograve;n đi k&egrave;m với c&aacute;c loại rau sống như rau muống, hoa chuối th&aacute;i nhỏ v&agrave; dọc m&ugrave;ng thanh m&aacute;t. Ngo&agrave;i ra, m&oacute;n b&uacute;n n&agrave;y c&ograve;n sử dụng nước me để tăng hương vị chua cay hấp dẫn.</p>
+				
+				<p>Một b&aacute;t b&uacute;n c&aacute; Hải Ph&ograve;ng ti&ecirc;u chuẩn khi được dọn ra phải c&oacute; m&agrave;u v&agrave;ng của chả c&aacute; v&agrave; c&aacute; r&aacute;n, m&agrave;u xanh của dọc m&ugrave;ng, m&agrave;u đỏ của tương ớt v&agrave; m&agrave;u trắng tinh của b&uacute;n ngập trong nước d&ugrave;ng. M&oacute;n ăn n&agrave;y rất th&iacute;ch hợp để ăn trong ng&agrave;y lạnh gi&aacute; hoặc những ng&agrave;y thời tiết &ldquo;ẩm ương&rdquo;.</p>
+				
+				<h2>2. Top 11&nbsp;địa chỉ b&aacute;n b&uacute;n c&aacute; Hải Ph&ograve;ng ăn l&agrave; m&ecirc;</h2>
+				
+				<p>Nếu muốn đặt ch&acirc;n đến đất cảng để thưởng thức m&oacute;n b&uacute;n c&aacute; chuẩn vị giống như th&oacute;i quen<strong>&nbsp;<a href="https://vinpearl.com/vi/tong-hop-quan-an-sang-hai-phong-ngon-chat-luong">ăn s&aacute;ng Hải Ph&ograve;ng</a></strong>&nbsp;của người d&acirc;n địa phương th&igrave; bạn c&oacute; thể t&igrave;m đến những qu&aacute;n ăn nổi tiếng sau:</p>
+				
+				<h3>2.1. B&uacute;n c&aacute; cay L&ecirc; Lợi</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ:&nbsp;</strong>66 L&ecirc; Lợi, quận Ng&ocirc; Quyền, Hải Ph&ograve;ng;</li>
+					<li><strong>Giờ mở cửa tham khảo:</strong>&nbsp;7:00 - 18:00</li>
+					<li><strong>Gi&aacute; tham khảo:</strong>&nbsp;25.000 - 35.000 VNĐ/t&ocirc;.</li>
+				</ul>
+				
+				<p>Đ&acirc;y l&agrave; địa chỉ b&aacute;n m&oacute;n b&uacute;n c&aacute; cay được nhiều t&iacute;n đồ ẩm thực Hải Ph&ograve;ng y&ecirc;u th&iacute;ch. M&oacute;n b&uacute;n c&aacute; tại đ&acirc;y được khen ngợi v&igrave; nước d&ugrave;ng vừa miệng, độ cay vừa phải, phần b&uacute;n nhiều, gi&uacute;p bạn c&oacute; đủ năng lượng cho h&agrave;nh tr&igrave;nh kh&aacute;m ph&aacute; th&agrave;nh phố Hải Ph&ograve;ng xinh đẹp.</p>
+				
+				<p><img alt="bún cá Hải Phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-8_1628521079.jpg" style="width: 100%" /><em>Qu&aacute;n b&uacute;n c&aacute; Hải Ph&ograve;ng L&ecirc; Lợi với những t&ocirc; b&uacute;n &ldquo;đầy &uacute; ụ&rdquo; (Ảnh: Sưu tầm)</em></p>
+				
+				<p><strong>&gt;&gt;&nbsp;<a href="https://vinpearl.com/vi/top-8-dia-chi-pate-hai-phong-sieu-chat-luong-an-mot-lan-la-nho">Top 8 địa chỉ Pate Hải Ph&ograve;ng si&ecirc;u chất lượng - Ăn một lần đ&atilde; nhớ</a>&nbsp;&nbsp;</strong></p>
+				
+				<ul>
+				</ul>
+				
+				<h3>2.2. B&uacute;n c&aacute; cay Thắng Tồ</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ:&nbsp;</strong>49 Lạch Tray, quận Ng&ocirc; Quyền, Hải Ph&ograve;ng;</li>
+					<li><strong>Giờ mở cửa tham khảo:&nbsp;</strong>6:00 - 22:00</li>
+					<li><strong>Gi&aacute; tham khảo:</strong>&nbsp;15.000 - 40.000 VNĐ/t&ocirc;.</li>
+				</ul>
+				
+				<p>Thắng Tồ l&agrave; qu&aacute;n b&uacute;n c&aacute; đ&uacute;ng chất Hải Ph&ograve;ng, đ&atilde; kh&ocirc;ng c&ograve;n xa lạ đối với những người s&agrave;nh ăn. T&ocirc; b&uacute;n của qu&aacute;n nổi bật ở những miếng c&aacute; gi&ograve;n rụm b&ecirc;n ngo&agrave;i, mềm ngọt b&ecirc;n trong; sợi b&uacute;n trắng muốt; rau ăn k&egrave;m tươi ngon,...&nbsp;</p>
+				
+				<p><img alt="bún cá Hải Phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-9_1628521116.jpg" style="width: 100%" /><em>Sợi b&uacute;n mềm, nguy&ecirc;n liệu tươi ngon (Ảnh: Sưu tầm)</em></p>
+				
+				<ul>
+				</ul>
+				
+				<h3>2.3. B&uacute;n c&aacute; cay Văn Cao</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ:&nbsp;</strong>156 Văn Cao, quận Ng&ocirc; Quyền, Hải Ph&ograve;ng;</li>
+					<li><strong>Giờ mở cửa tham khảo:&nbsp;</strong>7:00 - 20:30</li>
+					<li><strong>Gi&aacute; tham khảo:</strong>&nbsp;20.000 - 35.000 VNĐ/t&ocirc;.</li>
+				</ul>
+				
+				<p>Đến qu&aacute;n, du kh&aacute;ch sẽ được h&iacute;t h&agrave; vị t&ecirc; cay đầu lưỡi của nước d&ugrave;ng, nếm thử m&oacute;n c&aacute; r&aacute;n v&agrave; chả c&aacute; vừa miệng, th&ecirc;m rau v&agrave; b&uacute;n tươi ngon. Hương vị n&agrave;y sẽ gi&uacute;p bạn kh&ocirc;ng thể qu&ecirc;n được n&eacute;t đẹp của ẩm thực Hải Ph&ograve;ng.</p>
+				
+				<p><img alt="bún cá Hải Phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-10_1628521148.jpg" style="width: 100%" /><em>B&uacute;n c&aacute; Hải Ph&ograve;ng Văn Cao - qu&aacute;n ăn được nhiều du kh&aacute;ch y&ecirc;u th&iacute;ch (Ảnh: Sưu tầm)</em></p>
+				
+				<ul>
+				</ul>
+				
+				<h3>2.4. Qu&aacute;n b&uacute;n c&aacute; ở Hải Ph&ograve;ng - 153 L&ecirc; Lai</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ</strong>: 153 L&ecirc; Lai, Quận Ng&ocirc; Quyền, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa&nbsp;tham khảo</strong>: 06:00 - 11:00</li>
+					<li><strong>Mức gi&aacute; tham khảo</strong>: 20.000 VNĐ/t&ocirc;</li>
+				</ul>
+				
+				<p>Một trong những qu&aacute;n nổi tiếng với m&oacute;n b&uacute;n c&aacute; cay tại Hải Ph&ograve;ng được c&aacute;c t&iacute;n đồ ẩm thực y&ecirc;u th&iacute;ch l&agrave; 153 L&ecirc; Lai. Mặc d&ugrave; chỉ c&oacute; gi&aacute; 20.000 đồng nhưng b&aacute;t b&uacute;n kh&aacute; đầy, k&egrave;m theo đ&oacute; l&agrave; rau xanh, v&agrave;i vi&ecirc;n chả c&aacute;, c&agrave; chua đỏ tươi v&agrave; kh&ocirc;ng thể thiếu những miếng c&aacute; r&aacute;n hấp dẫn. Đặc biệt, phần nước d&ugrave;ng thơm ngon, cay cay sẽ khiến bạn ăn kh&ocirc;ng thể ngừng.</p>
+				
+				<p><img alt="bún cá hải phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-le-lai_1635243269.jpg" style="width: 100%" /><em>B&uacute;n c&aacute; cay 153 L&ecirc; Lai kh&ocirc;ng chỉ nhiều nh&acirc;n m&agrave; c&ograve;n c&oacute; nước d&ugrave;ng đậm đ&agrave;, thơm ngon (Ảnh: Sưu tầm)</em></p>
+				
+				<p><strong>&gt;&gt;</strong>&nbsp;<a href="https://vinpearl.com/vi/cha-chia-ha-lung-mon-cha-dat-khach-nhat-dat-cang-hai-phong"><strong>Chả ch&igrave;a Hạ Lũng - M&oacute;n chả đắt kh&aacute;ch nhất Hải Ph&ograve;ng</strong></a></p>
+				
+				<h3>2.5. B&uacute;n c&aacute; cay Lạch Tray</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ</strong>: Đầu Ng&otilde; 55 Lạch Tray, Ng&ocirc; Quyền, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa tham khảo:</strong>&nbsp;06:00 - 22:30</li>
+					<li><strong>Gi&aacute;</strong>: 20.000 - 30.000 VNĐ/t&ocirc;</li>
+				</ul>
+				
+				<p>Qu&aacute;n b&aacute;n b&uacute;n c&aacute; ngon tại Hải Ph&ograve;ng Lạch Tray c&oacute; lượng kh&aacute;ch kh&aacute; đ&ocirc;ng v&agrave;o những giờ cao điểm trong ng&agrave;y. Đa số kh&aacute;ch h&agrave;ng đến đ&acirc;y đều l&agrave; kh&aacute;ch quen. T&ocirc; b&uacute;n c&aacute; c&oacute; sự kết hợp ho&agrave;n hảo của c&aacute;, l&ograve;ng, nước d&ugrave;ng, t&ocirc;m, thịt, dạ d&agrave;y v&agrave; b&oacute;ng c&aacute;. Đảm bảo ăn s&aacute;ng một t&ocirc; như vậy bạn sẽ no đến tận trưa. Ngo&agrave;i ra, kh&ocirc;ng gian qu&aacute;n rất rộng r&atilde;i, sạch sẽ, chị b&aacute;n h&agrave;ng dễ mến khiến thực kh&aacute;ch rất h&agrave;i l&ograve;ng mỗi khi ăn tại đ&acirc;y.</p>
+				
+				<p><img alt="bún cá hải phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-lach-tray_1635243307.jpg" style="width: 100%" /><em>Lạch Tray - Qu&aacute;n b&uacute;n c&aacute; ngon Hải Ph&ograve;ng (Ảnh: Sưu tầm)</em></p>
+				
+				<h3>2.6. B&uacute;n c&aacute; cay Huy Trang - Qu&aacute;n b&uacute;n c&aacute; Hải Ph&ograve;ng ngon</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ</strong>: 3/343 Phủ Thượng Đoạn, Quận Hải An, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa&nbsp;tham khảo</strong>: 06:00 - 09:30</li>
+					<li><strong>Mức gi&aacute; tham khảo</strong>: 15.000 - 20.000 VNĐ/t&ocirc;</li>
+				</ul>
+				
+				<p>Nằm ở vị tr&iacute; kh&ocirc;ng qu&aacute; thuận lợi như c&aacute;c qu&aacute;n b&uacute;n c&aacute; kh&aacute;c nhưng b&uacute;n c&aacute; cay Huy Trang vẫn thu h&uacute;t được lượng kh&aacute;ch đ&ocirc;ng đảo v&agrave;o buổi s&aacute;ng. Nước d&ugrave;ng ở đ&acirc;y kh&aacute; đậm vị, c&aacute; được l&agrave;m sạch xương n&ecirc;n khi ăn rất ngon. Mỗi t&ocirc; b&uacute;n đều c&oacute; đầy đủ c&aacute;c gia vị v&agrave; nhiều b&uacute;n nhưng gi&aacute; lại v&ocirc; c&ugrave;ng b&igrave;nh d&acirc;n với 15.000 - 20.000 VNĐ/t&ocirc;.</p>
+				
+				<p><img alt="bún cá hải phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-huy-trang_1635243342.jpg" style="width: 100%" /><em>T&ocirc; b&uacute;n c&aacute; Huy Trang c&oacute; đầy đủ gia giảm nhưng gi&aacute; rất phải chăng (Ảnh: Sưu tầm)</em></p>
+				
+				<h3>2.7. Lẩu Sumo - B&uacute;n c&aacute; cay Cổng Cảng Hải Ph&ograve;ng</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ</strong>: 110 L&ecirc; Lợi, Quận Ng&ocirc; Quyền, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa&nbsp;tham khảo</strong>: 07:00 - 22:30</li>
+					<li><strong>Gi&aacute;&nbsp;tham khảo</strong>: 30.000 - 150.000 VNĐ</li>
+				</ul>
+				
+				<p>B&ecirc;n cạnh những c&aacute;i t&ecirc;n qu&aacute;n b&igrave;nh dị tại c&aacute;c cung đường Hải Ph&ograve;ng, qu&aacute;n lẩu Sumo - b&uacute;n c&aacute; cay Cổng Cảng l&agrave; địa chỉ m&agrave; bạn n&ecirc;n gh&eacute; qua. Tại đ&acirc;y, một b&aacute;n b&uacute;n lu&ocirc;n đầy ắp những b&uacute;n, miếng c&aacute; to, rau thơm c&ugrave;ng nhiều topping hấp dẫn kh&aacute;c. C&ograve;n g&igrave; tuyệt vời hơn khi tiết trời se lạnh được thưởng thức b&aacute;t b&uacute;n c&aacute; cay trứ danh đất cảng?</p>
+				
+				<p><img alt="bún cá hải phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-cong-cang_1635243377.jpg" style="width: 100%" /><em>Được thưởng thức m&oacute;n b&uacute;n c&aacute; Hải Ph&ograve;ng v&agrave;o những ng&agrave;y trời se lạnh sẽ khiến thực kh&aacute;ch ấm l&ograve;ng (Ảnh: VnExpress)</em></p>
+				
+				<h3>2.8. Ho&agrave;ng Diệu - Qu&aacute;n b&uacute;n c&aacute; Hải Ph&ograve;ng nổi tiếng</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ</strong>: 2B Ho&agrave;ng Diệu, Quận Ng&ocirc; Quyền, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa&nbsp;tham khảo</strong>: 06:00 - 10:00</li>
+					<li><strong>Gi&aacute; tham khảo</strong>: 25.000 - 30.000 VNĐ/t&ocirc;</li>
+				</ul>
+				
+				<p>Nếu đến ăn&nbsp;<em>b&uacute;n c&aacute; Hải Ph&ograve;ng</em>&nbsp;tại qu&aacute;n Ho&agrave;ng Diệu v&agrave;o buổi s&aacute;ng m&agrave; kh&ocirc;ng nhanh ch&acirc;n th&igrave; bạn sẽ kh&oacute; để t&igrave;m được chỗ ngồi. V&igrave; mới s&aacute;ng ra qu&aacute;n đ&atilde; đ&ocirc;ng cứng, người ăn tại chỗ, người mua mang về. B&aacute;t b&uacute;n c&aacute; cay thập cẩm của qu&aacute;n kh&ocirc;ng chỉ c&oacute; m&agrave;u sắc h&uacute;t mắt m&agrave; hương vị v&ocirc; c&ugrave;ng đậm đ&agrave;. M&oacute;n c&aacute; r&aacute;n ở đ&acirc;y được chi&ecirc;n v&agrave;ng ươm, mềm ngon m&agrave; kh&ocirc;ng hề bị kh&ocirc; hay x&aacute;c. Nước d&ugrave;ng c&oacute; vị vừa ăn, kh&ocirc;ng qu&aacute; nhạt hoặc đậm n&ecirc;n ph&ugrave; hợp với đa số khẩu vị thực kh&aacute;ch.</p>
+				
+				<p><img alt="bún cá hải phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-hoang-dieu_1635243426.jpg" style="width: 100%" /><em>C&aacute; chi&ecirc;n trong b&aacute;t b&uacute;n c&aacute; Hải Ph&ograve;ng tại Ho&agrave;ng Diệu c&oacute; thịt mềm, v&agrave;ng v&agrave; kh&ocirc;ng bị kh&ocirc; khi chi&ecirc;n (Ảnh: Sưu tầm)</em></p>
+				
+				<p><strong>&gt;&gt;&nbsp;</strong><a href="https://vinpearl.com/vi/cho-cat-bi-can-quet-thien-duong-an-vat-lon-nhat-hai-phong"><strong>Du lịch chợ C&aacute;t Bi Hải Ph&ograve;ng: Nghỉ ngơi ở đ&acirc;u, ăn g&igrave; ngon?</strong></a></p>
+				
+				<h3>2.9. Qu&aacute;n b&uacute;n c&aacute; Hải Ph&ograve;ng ngon - Đ&igrave;nh Đ&ocirc;ng</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ</strong>: 17 Đ&igrave;nh Đ&ocirc;ng, Quận Ng&ocirc; Quyền, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa&nbsp;tham khảo</strong>: 07:00 - 11:00</li>
+					<li><strong>Mức gi&aacute;&nbsp;tham khảo</strong>: 25.000 - 30.000 VNĐ/t&ocirc;</li>
+				</ul>
+				
+				<p>Thật thiếu s&oacute;t khi đến Hải Ph&ograve;ng m&agrave; bạn kh&ocirc;ng thưởng thức m&oacute;n b&uacute;n c&aacute; cay. Một trong những qu&aacute;n nổi tiếng c&oacute; b&uacute;n c&aacute; ngon l&agrave; 17 Đ&igrave;nh Đ&ocirc;ng - địa điểm ăn s&aacute;ng &ldquo;ruột&rdquo; của nhiều người d&acirc;n đất cảng. B&uacute;n c&aacute; cay tại đ&acirc;y c&oacute; h&igrave;nh thức kh&aacute; bắt mắt, m&agrave;u trắng của b&uacute;n kết hợp với sắc v&agrave;ng c&aacute; chi&ecirc;n, xanh rau thơm v&agrave; đỏ c&agrave; chua tạo n&ecirc;n sự h&agrave;i h&ograve;a đến lạ.&nbsp;</p>
+				
+				<p><img alt="bún cá hải phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-quan-dinh-dong_1635243453.jpg" style="width: 100%" /><em>B&uacute;n c&aacute; Hải Ph&ograve;ng tại Đ&igrave;nh Đ&ocirc;ng l&agrave; m&oacute;n ăn s&aacute;ng được y&ecirc;u th&iacute;ch bởi nhiều t&iacute;n đồ ẩm thực (Ảnh: Sưu tầm)</em></p>
+				
+				<h3>2.10. B&uacute;n c&aacute; Hải Ph&ograve;ng - Qu&aacute;n Cậu Đo&agrave;nh</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ</strong>:</li>
+				</ul>
+				
+				<p>- 151 Hồ Sen, L&ecirc; Ch&acirc;n, Hải Ph&ograve;ng</p>
+				
+				<p>- 66 L&ecirc; Lợi, Ng&ocirc; Quyền, Hải Ph&ograve;ng</p>
+				
+				<p>- 597 Mạc Đăng Doanh, Hải Ph&ograve;ng</p>
+				
+				<ul>
+					<li><strong>Giờ mở&nbsp;cửa tham khảo:</strong>&nbsp;06:00 - 11:00 | 16:00 - 21:00</li>
+					<li><strong>Gi&aacute; tham khảo</strong>: từ 25.000 - 50.000 VNĐ/t&ocirc;</li>
+				</ul>
+				
+				<p>D&ugrave; vẫn l&agrave; t&ocirc; b&uacute;n c&aacute; nhưng hầu hết thực kh&aacute;ch đến với qu&aacute;n Cậu Đo&agrave;nh đều lưu luyến hương vị của m&oacute;n ăn trứ danh Hải Ph&ograve;ng n&agrave;y khi lần đầu nếm thử. Vị ngọt thanh của nước d&ugrave;ng b&uacute;n c&aacute; Cậu Đo&agrave;nh kh&ocirc;ng thể lẫn với bất kỳ qu&aacute;n n&agrave;o. H&ograve;a quyện với đ&oacute; l&agrave; những gia vị đặc biệt của qu&aacute;n tạo n&ecirc;n b&aacute;t b&uacute;n c&aacute; ngon hết sảy, l&agrave;m đắm say l&ograve;ng người.</p>
+				
+				<p><img alt="bún cá hải phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-cau-doanh_1635243516.jpg" style="width: 100%" /><em>Qu&aacute;n b&uacute;n c&aacute; Cậu Đo&agrave;nh thơm ngon hết sảy (Ảnh: VnExpress)</em></p>
+				
+				<h3>2.11. Qu&aacute;n b&uacute;n c&aacute; Hải Ph&ograve;ng - Ch&uacute; Khờ</h3>
+				
+				<ul>
+					<li><strong>Địa chỉ:</strong>&nbsp;185 H&agrave;ng K&ecirc;nh, Quận L&ecirc; Ch&acirc;n, Hải Ph&ograve;ng</li>
+					<li><strong>Giờ mở cửa&nbsp;tham khảo</strong>: 07:00 - 10:00</li>
+					<li><strong>Gi&aacute;&nbsp;tham khảo</strong>: 25.000 - 35.000 VNĐ/t&ocirc;</li>
+				</ul>
+				
+				<p>Nh&acirc;n của b&aacute;t b&uacute;n c&aacute; Hải Ph&ograve;ng tại qu&aacute;n ch&uacute; Khờ rất đầy đặn, nhiều nguy&ecirc;n liệu kết hợp với nhau. Ngo&agrave;i những miếng c&aacute; được chi&ecirc;n v&agrave;ng rụm c&ograve;n c&oacute; l&ograve;ng c&aacute;, da c&aacute;, chả c&aacute;, trứng c&aacute; rất ngon v&agrave; vừa miệng. Th&ecirc;m v&agrave;o đ&oacute;, nước d&ugrave;ng thanh ngọt, chua chua v&agrave; kh&ocirc;ng bị tanh ch&uacute;t n&agrave;o cũng l&agrave; điểm hấp dẫn của m&oacute;n ăn n&agrave;y.</p>
+				
+				<p><img alt="bún cá hải phòng" src="https://statics.vinpearl.com/bun-ca-hai-phong-chu-kho_1635243549.jpg" style="width: 100%" /><em>Nước d&ugrave;ng thanh ngọt tạo n&ecirc;n n&eacute;t ri&ecirc;ng cho m&oacute;n b&uacute;n c&aacute; Hải Ph&ograve;ng tại qu&aacute;n Ch&uacute; Khờ (Ảnh: Sưu tầm)</em></p>
+				
+				<p>Ngo&agrave;i m&oacute;n b&uacute;n c&aacute; cay, Hải Ph&ograve;ng c&ograve;n nổi tiếng với nhiều m&oacute;n ăn ngon v&agrave; những địa điểm du lịch hấp dẫn. V&igrave; vậy, du kh&aacute;ch h&atilde;y sắp xếp thời gian gh&eacute; thăm th&agrave;nh phố cảng để thỏa sức kh&aacute;m ph&aacute; vẻ đẹp thi&ecirc;n nhi&ecirc;n v&agrave; nền ẩm thực đặc sắc nơi đ&acirc;y.</p>
+				',
+				'author' => 'Vin Pearl',
+				'images' => 'https://statics.vinpearl.com/bun-ca-hai-phong-cau-doanh_1635243516.jpg',
+				'type_id' => 4,
+				'createad_at' => Carbon::now(),
+				'is_feature' => 0
+			]
         ]);
     }
 }
