@@ -3,6 +3,12 @@
 <div class="container-fluid bg-primary py-5 mb-5 hero-header" style="background: url(../assets/img/index.jpg);background-position: center center;background-repeat: no-repeat;background-size: cover; height: 900px">
         <div class="container py-5">
             <div class="row justify-content-center py-5">
+            <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center" >
+                    <div class="position-relative w-75 mx-auto animated slideInDown" style="margin-top: 100px">
+                        <input class="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="VD: Bãi biển" id="value" value="">
+                        <button type="button" class="btn btn-primary rounded-pill py-2 px-4 position-absolute top-0 end-0 me-2" style="margin-top: 7px;" id="search">Tìm kiếm</button>
+                    </div>
+                </div>
         </div>
     </div>
 @endsection
