@@ -1,5 +1,5 @@
 @extends('clients.page')
-@section('page_img')url(https://azlocaltrip.com/wp-content/uploads/2019/11/tam-bac-lake-hai-phong.jpg)@endsection
+@section('page_img')url(../assets/img/dulich1.jpg)@endsection
 @section('page_title')Du lịch @endsection
 @section('page_content')
     <!-- About Start -->
@@ -38,9 +38,7 @@
                 <div class="col-md-6 d-flex align-items-center" style="background: #f6f6f9">
                     <div class="p-5">
                         <h1 class=" mb-4">Vịnh Lan Hạ</h1>
-                        <p class=" mb-4"> Vịnh Lan Hạ Cát Bà có diện tích hơn 7000m2 với rất nhiều những hòn đảo lớn nhỏ, nằm về phía Đông của đảo Cát Bà và phía Nam của vịnh Hạ Long. Với vẻ đẹp hoang sơ, sinh động của những bãi tắm chưa được khai thác nhiều, vịnh Lan Hạ đang là điểm đến hấp dẫn các tín đồ du lịch. Ghé thăm vịnh Lan Hạ, du khách sẽ được tham gia các hoạt động vui chơi trên biển, khám phá cuộc sống của các làng chài nơi đây.
-
-</p>
+                        <p class=" mb-4"> Vịnh Lan Hạ Cát Bà có diện tích hơn 7000m2 với rất nhiều những hòn đảo lớn nhỏ, nằm về phía Đông của đảo Cát Bà và phía Nam của vịnh Hạ Long. Với vẻ đẹp hoang sơ, sinh động của những bãi tắm chưa được khai thác nhiều, vịnh Lan Hạ đang là điểm đến hấp dẫn các tín đồ du lịch. Ghé thăm vịnh Lan Hạ, du khách sẽ được tham gia các hoạt động vui chơi trên biển, khám phá cuộc sống của các làng chài nơi đây.</p>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -49,7 +47,7 @@
                        <img class="img-fluid" style="width: 100%; height:100%; object-fit:cover" src="https://vj-prod-website-cms.s3.ap-southeast-1.amazonaws.com/shutterstock1057030175huge-1669090477974.jpg" alt="">  
                        </div>
                     </div>
-                </div>
+                                                    </div>
             </div>
         </div>
     <!-- About End -->
@@ -88,6 +86,4 @@
                     </div>
                 @endforeach
             </div>
-        </div>
-</div>
 @endsection

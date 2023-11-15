@@ -1,5 +1,5 @@
 @extends('clients.page')
-@section('page_img')url(https://azlocaltrip.com/wp-content/uploads/2019/11/tam-bac-lake-hai-phong.jpg)@endsection
+@section('page_img')url(https://haiphongnews.gov.vn/uploads/2023-T6/NHL-1.png)@endsection
 @section('page_title') Chi tiết @endsection
 @section('page_content')
     <!-- Package Start -->

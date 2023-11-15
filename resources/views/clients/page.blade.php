@@ -1,7 +1,7 @@
 @extends('clients.master')
 @section('css')@yield('page_css')@endsection
 @section('banner')
-<div class="container-fluid bg-primary py-5 mb-5 hero-header" style="background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), @yield('page_img');background-position: center center;background-repeat: no-repeat;background-size: cover;">
+<div class="container-fluid bg-primary py-5 mb-5 hero-header" style="background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), @yield('page_img');background-position: center center;background-repeat: no-repeat;background-size: cover; height: 700px">
         <div class="container py-5">
             <div class="row justify-content-center py-5">
             <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">

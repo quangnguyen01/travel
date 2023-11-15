@@ -1,5 +1,5 @@
 @extends('clients.page')
-@section('page_img')url(https://azlocaltrip.com/wp-content/uploads/2019/11/tam-bac-lake-hai-phong.jpg)@endsection
+@section('page_img')url(../assets/img/vanhoa1.jpg)@endsection
 @section('page_title')Văn hóa @endsection
 @section('page_content')
     <!-- About Start -->
@@ -40,7 +40,7 @@
                             <img class="img-fluid" src="https://cdnmedia.baotintuc.vn/Upload/a7srThwxbojBCucvUWgnxA/files/2022/04/13/phuong-do-13042022.jpg" alt="" style="width: 100%;height: 300px;object-fit:cover">
                             <div style="position: absolute;bottom: 0;background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);color: #f1f1f1;padding: 20px;margin-right: 12px;">
                             <span class="text-white" style="font-size: 30px;">Lễ hội Hoa phượng đỏ</span>
-                            <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
+                            <p></p>
                         </div>
                         </div>
                     </a>
@@ -53,7 +53,7 @@
                             <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/San-lach-tray.jpg" alt="" style="width: 100%;height: 300px;object-fit:cover">
                             <div style="position: absolute;bottom: 0;background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);color: #f1f1f1;padding: 20px;margin-right: 12px;">
                             <span class="text-white" style="font-size: 30px;">Sân vận động Lạch Tray</span>
-                            <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
+                            <p></p>
                         </div>
                         </div>
                     </a>
@@ -66,7 +66,7 @@
                             <img class="img-fluid" src="https://haiphong.gov.vn/upload/haiphong/product/2020/12/DEN-TRANG-KENH-ANH-DUC-NGHIA-2-e12f9d1ab5a54dcda5bff085c3978f20.jpg?maxwidth=1000" alt="" style="width: 100%;height: 300px;object-fit:cover">
                             <div style="position: absolute;bottom: 0;background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);color: #f1f1f1;padding: 20px;margin-right: 12px;">
                             <span class="text-white" style="font-size: 30px;">Di tích Bạch Đằng Giang</span>
-                            <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
+                            <p></p>
                         </div>
                         </div>
                     </a>
@@ -79,7 +79,7 @@
                             <img class="img-fluid" src="https://media.mia.vn/uploads/blog-du-lich/kham-pha-di-tich-lich-su-nui-voi-xuat-hien-som-nhat-dat-cang-02-1647068515.jpeg" alt="" style="width: 100%;height: 300px;object-fit:cover">
                             <div style="position: absolute;bottom: 0;background: rgb(0, 0, 0); background: rgba(0, 0, 0, 0.5);color: #f1f1f1;padding: 20px;margin-right: 12px;">
                             <span class="text-white" style="font-size: 30px;">Núi Voi</span>
-                            <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei.</p>
+                            <p></p>
                             </div>
                         </div>
                         </a>

@@ -1,5 +1,5 @@
 @extends('clients.page')
-@section('page_img')url(https://azlocaltrip.com/wp-content/uploads/2019/11/tam-bac-lake-hai-phong.jpg)@endsection
+@section('page_img')url(../assets/img/amthuc1.jpg)@endsection
 @section('page_title')Ẩm thực @endsection
 @section('page_css')
 <style>

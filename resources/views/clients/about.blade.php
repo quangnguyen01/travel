@@ -1,5 +1,5 @@
 @extends('clients.page')
-@section('page_img')url(https://azlocaltrip.com/wp-content/uploads/2019/11/tam-bac-lake-hai-phong.jpg)@endsection
+@section('page_img')url(https://bvhttdl.mediacdn.vn/documents/491975/1292142/hai+phong.png)@endsection
 @section('page_title')Giới thiệu @endsection
 @section('page_content')
     <!-- About Start -->
